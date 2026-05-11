@@ -1,0 +1,47 @@
+name: Scrape Timecounts Volunteer Hours
+
+on:
+  # Run daily at 14:00 UTC (08:00 AEST)
+  schedule:
+    - cron: "0 14 * * *"
+  # Allow manual trigger
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  scrape:
+    runs-on: ubuntu-latest
+    timeout-minutes: 10
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+          cache: "pip"
+
+      - name: Install dependencies
+        run: |
+          pip install -r script/requirements.txt
+          playwright install chromium --with-deps
+
+      - name: Run scraper
+        env:
+          TIMECOUNTS_EMAIL: ${{ secrets.TIMECOUNTS_EMAIL }}
+          TIMECOUNTS_PASSWORD: ${{ secrets.TIMECOUNTS_PASSWORD }}
+          DATABASE_URL: ${{ secrets.DATABASE_URL }}
+        run: python script/scraper.py
+
+      - name: Commit and push updated data
+        run: |
+          git config user.name "Taha Parker"
+          git config user.email "98612931+tahayparker@users.noreply.github.com"
+          git add data/
+          # Only commit if there are changes
+          git diff --cached --quiet || git commit -m "chore: update volunteer hours data [$(date -u +%Y-%m-%dT%H:%M:%SZ)]"
+          git push
