@@ -1,9 +1,10 @@
 {
-  "scraped_at": "2026-05-03T02:38:58.014048+10:00",
+  "scraped_at": "2026-05-11T23:59:48.824653+10:00",
   "summary": {
-    "total_sessions_approved": 36,
-    "total_hours_completed": 90.25,
-    "total_hours_current_year": 53.0,
+    "total_sessions_approved": 39,
+    "total_sessions_current_year": 26,
+    "total_hours_completed": 97.25,
+    "total_hours_current_year": 60.0,
     "unique_skills": [
       "Caring",
       "Customer Focused",
@@ -12,10 +13,41 @@
       "Kind",
       "Retail Experience",
       "Thoughtful"
-    ],
-    "total_sessions_current_year": 23
+    ]
   },
   "entries": [
+    {
+      "hours": 2.5,
+      "date": "2026-05-08",
+      "day": "Fri",
+      "shift_name": "Pulse Pantry",
+      "verified_skills": "Customer Service, Customer Focused, Retail Experience",
+      "verified_skills_list": [
+        "Customer Service",
+        "Customer Focused",
+        "Retail Experience"
+      ]
+    },
+    {
+      "hours": 2.5,
+      "date": "2026-05-07",
+      "day": "Thu",
+      "shift_name": "Pulse Pantry",
+      "verified_skills": "Customer Service, Customer Focused, Retail Experience",
+      "verified_skills_list": [
+        "Customer Service",
+        "Customer Focused",
+        "Retail Experience"
+      ]
+    },
+    {
+      "hours": 2.0,
+      "date": "2026-05-06",
+      "day": "Wed",
+      "shift_name": "Pulse Pantry Restock",
+      "verified_skills": "",
+      "verified_skills_list": []
+    },
     {
       "hours": 2.75,
       "date": "2026-05-01",
@@ -305,14 +337,6 @@
       ]
     },
     {
-      "hours": 3.0,
-      "date": "2025-10-21",
-      "day": "Tue",
-      "shift_name": "DIWALI",
-      "verified_skills": "",
-      "verified_skills_list": []
-    },
-    {
       "hours": 0.5,
       "date": "2025-10-21",
       "day": "Tue",
@@ -324,6 +348,14 @@
         "Caring",
         "Thoughtful"
       ]
+    },
+    {
+      "hours": 3.0,
+      "date": "2025-10-21",
+      "day": "Tue",
+      "shift_name": "DIWALI",
+      "verified_skills": "",
+      "verified_skills_list": []
     },
     {
       "hours": 2.75,
