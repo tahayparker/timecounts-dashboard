@@ -1,5 +1,5 @@
 {
-  "scraped_at": "2026-05-12T00:11:54.688717+10:00",
+  "scraped_at": "2026-05-12T02:33:04.644156+10:00",
   "summary": {
     "total_sessions_approved": 39,
     "total_sessions_current_year": 26,
@@ -325,16 +325,12 @@
       ]
     },
     {
-      "hours": 2.5,
+      "hours": 3.0,
       "date": "2025-10-21",
       "day": "Tue",
-      "shift_name": "Pulse Pantry",
-      "verified_skills": "Customer Service, Customer Focused, Retail Experience",
-      "verified_skills_list": [
-        "Customer Service",
-        "Customer Focused",
-        "Retail Experience"
-      ]
+      "shift_name": "DIWALI",
+      "verified_skills": "",
+      "verified_skills_list": []
     },
     {
       "hours": 0.5,
@@ -350,12 +346,16 @@
       ]
     },
     {
-      "hours": 3.0,
+      "hours": 2.5,
       "date": "2025-10-21",
       "day": "Tue",
-      "shift_name": "DIWALI",
-      "verified_skills": "",
-      "verified_skills_list": []
+      "shift_name": "Pulse Pantry",
+      "verified_skills": "Customer Service, Customer Focused, Retail Experience",
+      "verified_skills_list": [
+        "Customer Service",
+        "Customer Focused",
+        "Retail Experience"
+      ]
     },
     {
       "hours": 2.75,
