@@ -3,7 +3,8 @@ name: Scrape Timecounts Volunteer Hours
 on:
   # Run daily at 14:00 UTC (08:00 AEST)
   schedule:
-    - cron: "0 14 * * *"
+    - cron: "0 0 * * *"
+      timezone: "Australia/Sydney"
   # Allow manual trigger
   workflow_dispatch:
 
