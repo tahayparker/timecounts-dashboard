@@ -60,6 +60,14 @@ const fuseKeys: FuseOptionKey<Entry>[] = [
 
 const chartAxisTick = { fontSize: 12, fill: "rgb(195,195,195)" };
 
+const searchInputStyles = `
+  ::-webkit-search-cancel-button,
+  ::-webkit-search-decoration {
+    -webkit-appearance: none;
+    appearance: none;
+  }
+`;
+
 function freshnessMeta(scrapedAt: string): { dot: string; hint: string } {
   let parsed: Date;
   try {
@@ -240,25 +248,26 @@ export default function DashboardClient({ data }: { data: Data }) {
 
       {/* ─── Shifts Table ─── */}
       <section>
-        <div className="mb-3 flex items-center gap-3 border-b border-[rgb(60,60,60)] pb-3">
+        <style>{searchInputStyles}</style>
+        <div className="group mb-3 flex items-center gap-3 border-b border-transparent pb-3 transition-[border-color] duration-300 ease-out hover:border-[rgb(60,60,60)] focus-within:border-[rgb(60,60,60)]">
           <Search
-            className="h-4 w-4 shrink-0 text-[rgb(160,160,160)]"
+            className="h-4 w-4 shrink-0 text-[rgb(160,160,160)] transition-all duration-300 ease-out group-hover:text-white group-focus-within:text-white"
             aria-hidden
           />
           <div className="relative min-w-0 flex-1">
             <input
-              type="text"
+              type="search"
               spellCheck={false}
               placeholder="search shifts..."
               value={search}
               onChange={(e) => setSearch(e.target.value)}
-              className="w-full bg-transparent text-sm text-white caret-white outline-none placeholder:text-[rgb(100,100,100)]"
+              className="h-5 w-full border-none bg-transparent text-sm text-white caret-white outline-none ring-0 transition-all duration-300 ease-out placeholder:text-[rgb(100,100,100)] focus:ring-0 focus-visible:outline-none focus-visible:ring-0 focus-visible:ring-offset-0"
             />
             {search ? (
               <button
                 type="button"
                 onClick={() => setSearch("")}
-                className="absolute right-0 top-1/2 -translate-y-1/2 text-[rgb(160,160,160)] transition-colors hover:text-white"
+                className="absolute right-0 top-1/2 -translate-y-1/2 text-[rgb(160,160,160)] transition-all duration-300 ease-out hover:text-white"
                 aria-label="Clear search"
               >
                 <X className="h-4 w-4" />
@@ -514,13 +523,15 @@ export default function DashboardClient({ data }: { data: Data }) {
             type="button"
             onClick={handleRefresh}
             disabled={refreshState === "loading"}
-            className="inline-flex items-center gap-2 rounded-md border border-[rgb(60,60,60)] bg-[rgb(24,24,24)] px-3 py-2 text-sm text-white transition-colors hover:border-[rgb(100,100,100)] hover:bg-[rgb(32,32,32)] disabled:opacity-50"
+            className="group inline-flex items-center gap-2 border-0 border-b border-transparent bg-transparent px-0 pb-0.5 outline-none transition-[border-color] duration-300 ease-out hover:border-[rgb(60,60,60)] disabled:pointer-events-none disabled:opacity-40"
           >
             <RefreshCw
-              className={`h-4 w-4 shrink-0 ${refreshState === "loading" ? "animate-spin" : ""}`}
+              className={`h-4 w-4 shrink-0 text-[rgb(160,160,160)] transition-all duration-300 ease-out group-hover:text-white ${refreshState === "loading" ? "animate-spin" : ""}`}
               aria-hidden
             />
-            Refresh data
+            <span className="text-sm text-[rgb(160,160,160)] transition-colors duration-300 ease-out group-hover:text-white">
+              Refresh data
+            </span>
           </button>
         </div>
       </div>
