@@ -1,5 +1,5 @@
 {
-  "scraped_at": "2026-05-12T02:33:04.644156+10:00",
+  "scraped_at": "2026-05-13T02:11:47.274953+10:00",
   "summary": {
     "total_sessions_approved": 39,
     "total_sessions_current_year": 26,
@@ -325,14 +325,6 @@
       ]
     },
     {
-      "hours": 3.0,
-      "date": "2025-10-21",
-      "day": "Tue",
-      "shift_name": "DIWALI",
-      "verified_skills": "",
-      "verified_skills_list": []
-    },
-    {
       "hours": 0.5,
       "date": "2025-10-21",
       "day": "Tue",
@@ -356,6 +348,14 @@
         "Customer Focused",
         "Retail Experience"
       ]
+    },
+    {
+      "hours": 3.0,
+      "date": "2025-10-21",
+      "day": "Tue",
+      "shift_name": "DIWALI",
+      "verified_skills": "",
+      "verified_skills_list": []
     },
     {
       "hours": 2.75,
