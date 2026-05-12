@@ -19,7 +19,7 @@ export default function Page() {
   return (
     <div className="min-h-screen bg-background">
       {/* Header */}
-      <header className="sticky top-0 z-50 border-b border-border bg-background/95 backdrop-blur-md">
+      <header className="top-0 z-20">
         <div className="flex h-14 items-center px-4 sm:px-6">
           <div className="flex items-center gap-2.5">
             <ClipboardClock
