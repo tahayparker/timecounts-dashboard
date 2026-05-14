@@ -1,10 +1,10 @@
 {
-  "scraped_at": "2026-05-14T02:13:30.547013+10:00",
+  "scraped_at": "2026-05-15T02:03:19.846676+10:00",
   "summary": {
-    "total_sessions_approved": 40,
-    "total_sessions_current_year": 27,
-    "total_hours_completed": 99.75,
-    "total_hours_current_year": 62.5,
+    "total_sessions_approved": 41,
+    "total_sessions_current_year": 28,
+    "total_hours_completed": 102.5,
+    "total_hours_current_year": 65.25,
     "unique_skills": [
       "Caring",
       "Customer Focused",
@@ -16,6 +16,18 @@
     ]
   },
   "entries": [
+    {
+      "hours": 2.75,
+      "date": "2026-05-14",
+      "day": "Thu",
+      "shift_name": "Pulse Pantry",
+      "verified_skills": "Customer Service, Customer Focused, Retail Experience",
+      "verified_skills_list": [
+        "Customer Service",
+        "Customer Focused",
+        "Retail Experience"
+      ]
+    },
     {
       "hours": 2.5,
       "date": "2026-05-13",
@@ -333,14 +345,6 @@
       ]
     },
     {
-      "hours": 3.0,
-      "date": "2025-10-21",
-      "day": "Tue",
-      "shift_name": "DIWALI",
-      "verified_skills": "",
-      "verified_skills_list": []
-    },
-    {
       "hours": 2.5,
       "date": "2025-10-21",
       "day": "Tue",
@@ -351,6 +355,14 @@
         "Customer Focused",
         "Retail Experience"
       ]
+    },
+    {
+      "hours": 3.0,
+      "date": "2025-10-21",
+      "day": "Tue",
+      "shift_name": "DIWALI",
+      "verified_skills": "",
+      "verified_skills_list": []
     },
     {
       "hours": 0.5,
@@ -386,18 +398,18 @@
       "verified_skills_list": []
     },
     {
-      "hours": 3.5,
-      "date": "2025-10-08",
-      "day": "Wed",
-      "shift_name": "Breaky Bar",
-      "verified_skills": "",
-      "verified_skills_list": []
-    },
-    {
       "hours": 3.0,
       "date": "2025-10-08",
       "day": "Wed",
       "shift_name": "Pulse Pantry Restock",
+      "verified_skills": "",
+      "verified_skills_list": []
+    },
+    {
+      "hours": 3.5,
+      "date": "2025-10-08",
+      "day": "Wed",
+      "shift_name": "Breaky Bar",
       "verified_skills": "",
       "verified_skills_list": []
     },
