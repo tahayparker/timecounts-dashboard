@@ -1,10 +1,10 @@
 {
-  "scraped_at": "2026-05-15T02:03:19.846676+10:00",
+  "scraped_at": "2026-05-15T13:44:07.993175+10:00",
   "summary": {
-    "total_sessions_approved": 41,
-    "total_sessions_current_year": 28,
-    "total_hours_completed": 102.5,
-    "total_hours_current_year": 65.25,
+    "total_sessions_approved": 42,
+    "total_sessions_current_year": 29,
+    "total_hours_completed": 104.75,
+    "total_hours_current_year": 67.5,
     "unique_skills": [
       "Caring",
       "Customer Focused",
@@ -16,6 +16,18 @@
     ]
   },
   "entries": [
+    {
+      "hours": 2.25,
+      "date": "2026-05-15",
+      "day": "Fri",
+      "shift_name": "Pulse Pantry",
+      "verified_skills": "Customer Service, Customer Focused, Retail Experience",
+      "verified_skills_list": [
+        "Customer Service",
+        "Customer Focused",
+        "Retail Experience"
+      ]
+    },
     {
       "hours": 2.75,
       "date": "2026-05-14",
@@ -357,14 +369,6 @@
       ]
     },
     {
-      "hours": 3.0,
-      "date": "2025-10-21",
-      "day": "Tue",
-      "shift_name": "DIWALI",
-      "verified_skills": "",
-      "verified_skills_list": []
-    },
-    {
       "hours": 0.5,
       "date": "2025-10-21",
       "day": "Tue",
@@ -376,6 +380,14 @@
         "Caring",
         "Thoughtful"
       ]
+    },
+    {
+      "hours": 3.0,
+      "date": "2025-10-21",
+      "day": "Tue",
+      "shift_name": "DIWALI",
+      "verified_skills": "",
+      "verified_skills_list": []
     },
     {
       "hours": 2.75,
