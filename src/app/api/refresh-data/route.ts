@@ -12,7 +12,7 @@ export async function POST() {
         error:
           "Refresh is not configured. Set GITHUB_TOKEN and GITHUB_REPO on the server.",
       },
-      { status: 503 }
+      { status: 503 },
     );
   }
 
@@ -32,7 +32,7 @@ export async function POST() {
     const detail = await res.text();
     return NextResponse.json(
       { error: "GitHub refused the workflow dispatch.", detail },
-      { status: res.status >= 400 && res.status < 600 ? res.status : 502 }
+      { status: res.status >= 400 && res.status < 600 ? res.status : 502 },
     );
   }
 
