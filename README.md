@@ -54,15 +54,15 @@ CSV and JSON exports are written to `data/` (e.g. `volunteer_hours.json`). The d
 
 **Required environment variables**
 
-| Variable | Purpose |
-|----------|---------|
-| `TIMECOUNTS_EMAIL` | Timecounts login email |
+| Variable              | Purpose                   |
+| --------------------- | ------------------------- |
+| `TIMECOUNTS_EMAIL`    | Timecounts login email    |
 | `TIMECOUNTS_PASSWORD` | Timecounts login password |
 
 **Optional**
 
-| Variable | Purpose |
-|----------|---------|
+| Variable       | Purpose                                                                                                         |
+| -------------- | --------------------------------------------------------------------------------------------------------------- |
 | `DATABASE_URL` | If set, the scraper can also export to your database (see `script/scraper.py`); otherwise that step is skipped. |
 
 Do not commit `.env`. Use `.env.example` as a template for local use only.
@@ -83,24 +83,24 @@ The UI can call **`POST /api/refresh-data`**, which dispatches the scrape workfl
 
 Configure these on the **server** (e.g. Vercel project settings), not in public client env:
 
-| Variable | Purpose |
-|----------|---------|
-| `GITHUB_TOKEN` | Fine-grained or classic PAT with `actions:write` (or sufficient scope to trigger workflows) on the repo |
-| `GITHUB_REPO` | `owner/name` (e.g. `you/timecounts-dashboard`) |
-| `GITHUB_WORKFLOW_REF` | (optional) Branch or tag to dispatch; defaults to `main` (set to your default branch, e.g. `master`, if different) |
-| `GITHUB_WORKFLOW_FILE` | (optional) Workflow filename; defaults to `scrape.yml` |
+| Variable               | Purpose                                                                                                            |
+| ---------------------- | ------------------------------------------------------------------------------------------------------------------ |
+| `GITHUB_TOKEN`         | Fine-grained or classic PAT with `actions:write` (or sufficient scope to trigger workflows) on the repo            |
+| `GITHUB_REPO`          | `owner/name` (e.g. `you/timecounts-dashboard`)                                                                     |
+| `GITHUB_WORKFLOW_REF`  | (optional) Branch or tag to dispatch; defaults to `main` (set to your default branch, e.g. `master`, if different) |
+| `GITHUB_WORKFLOW_FILE` | (optional) Workflow filename; defaults to `scrape.yml`                                                             |
 
 If `GITHUB_TOKEN` or `GITHUB_REPO` is missing, the route responds with **503** and a JSON error.
 
 ## Project layout (high level)
 
-| Path | Role |
-|------|------|
-| `src/app/page.tsx` | Loads `data/volunteer_hours.json`, renders the dashboard shell |
-| `src/components/dashboard-client.tsx` | Search, filters, table, chart, refresh control |
-| `src/app/api/refresh-data/route.ts` | GitHub workflow dispatch |
-| `script/scraper.py` | Playwright-based export to `data/` (and optional DB) |
-| `data/` | Committed exports consumed by the app |
+| Path                                  | Role                                                           |
+| ------------------------------------- | -------------------------------------------------------------- |
+| `src/app/page.tsx`                    | Loads `data/volunteer_hours.json`, renders the dashboard shell |
+| `src/components/dashboard-client.tsx` | Search, filters, table, chart, refresh control                 |
+| `src/app/api/refresh-data/route.ts`   | GitHub workflow dispatch                                       |
+| `script/scraper.py`                   | Playwright-based export to `data/` (and optional DB)           |
+| `data/`                               | Committed exports consumed by the app                          |
 
 ## Deploy
 
