@@ -1,5 +1,5 @@
 {
-  "scraped_at": "2026-05-17T00:46:11.696284+10:00",
+  "scraped_at": "2026-05-18T00:48:40.554374+10:00",
   "summary": {
     "total_sessions_approved": 42,
     "total_sessions_current_year": 29,
@@ -369,20 +369,25 @@
       ]
     },
     {
+      "hours": 0.5,
+      "date": "2025-10-21",
+      "day": "Tue",
+      "shift_name": "POWER OF KINDNESS WORKSHOP",
+      "verified_skills": "Kind, Gentle, Caring, Thoughtful",
+      "verified_skills_list": [
+        "Kind",
+        "Gentle",
+        "Caring",
+        "Thoughtful"
+      ]
+    },
+    {
       "hours": 3.0,
       "date": "2025-10-21",
       "day": "Tue",
       "shift_name": "DIWALI",
       "verified_skills": "",
       "verified_skills_list": []
-    },
-    {
-      "hours": 0.5,
-      "date": "2025-10-21",
-      "day": "Tue",
-      "shift_name": "POWER OF KINDNESS WORKSHOP",
-      "verified_skills": "Kind, Gentle, Caring, Thoughtful",
-      "verified_skills_list": ["Kind", "Gentle", "Caring", "Thoughtful"]
     },
     {
       "hours": 2.75,
