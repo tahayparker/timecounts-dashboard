@@ -1,10 +1,10 @@
 {
-  "scraped_at": "2026-05-20T02:43:27.681190+10:00",
+  "scraped_at": "2026-05-20T15:15:59.005377+10:00",
   "summary": {
-    "total_sessions_approved": 42,
-    "total_sessions_current_year": 29,
-    "total_hours_completed": 104.75,
-    "total_hours_current_year": 67.5,
+    "total_sessions_approved": 43,
+    "total_sessions_current_year": 30,
+    "total_hours_completed": 107.0,
+    "total_hours_current_year": 69.75,
     "unique_skills": [
       "Caring",
       "Customer Focused",
@@ -16,6 +16,14 @@
     ]
   },
   "entries": [
+    {
+      "hours": 2.25,
+      "date": "2026-05-20",
+      "day": "Wed",
+      "shift_name": "Pulse Pantry Restock",
+      "verified_skills": "",
+      "verified_skills_list": []
+    },
     {
       "hours": 2.25,
       "date": "2026-05-15",
@@ -357,14 +365,6 @@
       ]
     },
     {
-      "hours": 3.0,
-      "date": "2025-10-21",
-      "day": "Tue",
-      "shift_name": "DIWALI",
-      "verified_skills": "",
-      "verified_skills_list": []
-    },
-    {
       "hours": 0.5,
       "date": "2025-10-21",
       "day": "Tue",
@@ -390,6 +390,14 @@
       ]
     },
     {
+      "hours": 3.0,
+      "date": "2025-10-21",
+      "day": "Tue",
+      "shift_name": "DIWALI",
+      "verified_skills": "",
+      "verified_skills_list": []
+    },
+    {
       "hours": 2.75,
       "date": "2025-10-14",
       "day": "Tue",
@@ -410,18 +418,18 @@
       "verified_skills_list": []
     },
     {
-      "hours": 3.5,
-      "date": "2025-10-08",
-      "day": "Wed",
-      "shift_name": "Breaky Bar",
-      "verified_skills": "",
-      "verified_skills_list": []
-    },
-    {
       "hours": 3.0,
       "date": "2025-10-08",
       "day": "Wed",
       "shift_name": "Pulse Pantry Restock",
+      "verified_skills": "",
+      "verified_skills_list": []
+    },
+    {
+      "hours": 3.5,
+      "date": "2025-10-08",
+      "day": "Wed",
+      "shift_name": "Breaky Bar",
       "verified_skills": "",
       "verified_skills_list": []
     },
