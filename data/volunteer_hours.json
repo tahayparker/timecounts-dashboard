@@ -1,17 +1,23 @@
 {
-  "scraped_at": "2026-05-20T15:15:59.005377+10:00",
+  "scraped_at": "2026-05-21T02:43:19.983590+10:00",
   "summary": {
-    "total_sessions_approved": 43,
-    "total_sessions_current_year": 30,
-    "total_hours_completed": 107.0,
-    "total_hours_current_year": 69.75,
+    "total_sessions_approved": 44,
+    "total_sessions_current_year": 31,
+    "total_hours_completed": 108.0,
+    "total_hours_current_year": 70.75,
     "unique_skills": [
       "Caring",
+      "Communications",
+      "Conflict Resolution",
       "Customer Focused",
       "Customer Service",
       "Gentle",
+      "Goal Setting",
       "Kind",
+      "Planning",
       "Retail Experience",
+      "Team Building",
+      "Team Leadership",
       "Thoughtful"
     ]
   },
@@ -23,6 +29,21 @@
       "shift_name": "Pulse Pantry Restock",
       "verified_skills": "",
       "verified_skills_list": []
+    },
+    {
+      "hours": 1.0,
+      "date": "2026-05-20",
+      "day": "Wed",
+      "shift_name": "VOLUNTEER LEADERSHIP",
+      "verified_skills": "Team Leadership, Team Building, Planning, Goal Setting, Communications, Conflict Resolution",
+      "verified_skills_list": [
+        "Team Leadership",
+        "Team Building",
+        "Planning",
+        "Goal Setting",
+        "Communications",
+        "Conflict Resolution"
+      ]
     },
     {
       "hours": 2.25,
@@ -365,6 +386,18 @@
       ]
     },
     {
+      "hours": 2.5,
+      "date": "2025-10-21",
+      "day": "Tue",
+      "shift_name": "Pulse Pantry",
+      "verified_skills": "Customer Service, Customer Focused, Retail Experience",
+      "verified_skills_list": [
+        "Customer Service",
+        "Customer Focused",
+        "Retail Experience"
+      ]
+    },
+    {
       "hours": 0.5,
       "date": "2025-10-21",
       "day": "Tue",
@@ -375,18 +408,6 @@
         "Gentle",
         "Caring",
         "Thoughtful"
-      ]
-    },
-    {
-      "hours": 2.5,
-      "date": "2025-10-21",
-      "day": "Tue",
-      "shift_name": "Pulse Pantry",
-      "verified_skills": "Customer Service, Customer Focused, Retail Experience",
-      "verified_skills_list": [
-        "Customer Service",
-        "Customer Focused",
-        "Retail Experience"
       ]
     },
     {
@@ -418,18 +439,18 @@
       "verified_skills_list": []
     },
     {
-      "hours": 3.0,
-      "date": "2025-10-08",
-      "day": "Wed",
-      "shift_name": "Pulse Pantry Restock",
-      "verified_skills": "",
-      "verified_skills_list": []
-    },
-    {
       "hours": 3.5,
       "date": "2025-10-08",
       "day": "Wed",
       "shift_name": "Breaky Bar",
+      "verified_skills": "",
+      "verified_skills_list": []
+    },
+    {
+      "hours": 3.0,
+      "date": "2025-10-08",
+      "day": "Wed",
+      "shift_name": "Pulse Pantry Restock",
       "verified_skills": "",
       "verified_skills_list": []
     },
