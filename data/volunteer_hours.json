@@ -1,10 +1,10 @@
 {
-  "scraped_at": "2026-06-02T05:16:02.700039+10:00",
+  "scraped_at": "2026-06-03T03:59:01.015390+10:00",
   "summary": {
-    "total_sessions_approved": 49,
-    "total_sessions_current_year": 36,
-    "total_hours_completed": 128.75,
-    "total_hours_current_year": 91.5,
+    "total_sessions_approved": 50,
+    "total_sessions_current_year": 37,
+    "total_hours_completed": 129.75,
+    "total_hours_current_year": 92.5,
     "unique_skills": [
       "Caring",
       "Communications",
@@ -51,6 +51,14 @@
       "date": "2026-05-27",
       "day": "Wed",
       "shift_name": "Vivid Tours Assistant",
+      "verified_skills": "",
+      "verified_skills_list": []
+    },
+    {
+      "hours": 1.0,
+      "date": "2026-05-27",
+      "day": "Wed",
+      "shift_name": "Volunteer",
       "verified_skills": "",
       "verified_skills_list": []
     },
