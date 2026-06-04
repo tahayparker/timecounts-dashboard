@@ -1,5 +1,5 @@
 {
-  "scraped_at": "2026-06-04T04:15:25.901528+10:00",
+  "scraped_at": "2026-06-05T02:41:53.731787+10:00",
   "summary": {
     "total_sessions_approved": 50,
     "total_sessions_current_year": 37,
@@ -450,18 +450,6 @@
       ]
     },
     {
-      "hours": 2.5,
-      "date": "2025-10-21",
-      "day": "Tue",
-      "shift_name": "Pulse Pantry",
-      "verified_skills": "Customer Service, Customer Focused, Retail Experience",
-      "verified_skills_list": [
-        "Customer Service",
-        "Customer Focused",
-        "Retail Experience"
-      ]
-    },
-    {
       "hours": 0.5,
       "date": "2025-10-21",
       "day": "Tue",
@@ -472,6 +460,18 @@
         "Gentle",
         "Caring",
         "Thoughtful"
+      ]
+    },
+    {
+      "hours": 2.5,
+      "date": "2025-10-21",
+      "day": "Tue",
+      "shift_name": "Pulse Pantry",
+      "verified_skills": "Customer Service, Customer Focused, Retail Experience",
+      "verified_skills_list": [
+        "Customer Service",
+        "Customer Focused",
+        "Retail Experience"
       ]
     },
     {
