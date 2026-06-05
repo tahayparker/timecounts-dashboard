@@ -1,10 +1,10 @@
 {
-  "scraped_at": "2026-06-05T02:41:53.731787+10:00",
+  "scraped_at": "2026-06-06T02:24:26.170240+10:00",
   "summary": {
-    "total_sessions_approved": 50,
-    "total_sessions_current_year": 37,
-    "total_hours_completed": 129.75,
-    "total_hours_current_year": 92.5,
+    "total_sessions_approved": 51,
+    "total_sessions_current_year": 38,
+    "total_hours_completed": 131.75,
+    "total_hours_current_year": 94.5,
     "unique_skills": [
       "Caring",
       "Communications",
@@ -22,6 +22,14 @@
     ]
   },
   "entries": [
+    {
+      "hours": 2.0,
+      "date": "2026-06-04",
+      "day": "Thu",
+      "shift_name": "BREAKFAST AFTER DARK",
+      "verified_skills": "",
+      "verified_skills_list": []
+    },
     {
       "hours": 2.5,
       "date": "2026-05-29",
@@ -450,6 +458,18 @@
       ]
     },
     {
+      "hours": 2.5,
+      "date": "2025-10-21",
+      "day": "Tue",
+      "shift_name": "Pulse Pantry",
+      "verified_skills": "Customer Service, Customer Focused, Retail Experience",
+      "verified_skills_list": [
+        "Customer Service",
+        "Customer Focused",
+        "Retail Experience"
+      ]
+    },
+    {
       "hours": 0.5,
       "date": "2025-10-21",
       "day": "Tue",
@@ -460,18 +480,6 @@
         "Gentle",
         "Caring",
         "Thoughtful"
-      ]
-    },
-    {
-      "hours": 2.5,
-      "date": "2025-10-21",
-      "day": "Tue",
-      "shift_name": "Pulse Pantry",
-      "verified_skills": "Customer Service, Customer Focused, Retail Experience",
-      "verified_skills_list": [
-        "Customer Service",
-        "Customer Focused",
-        "Retail Experience"
       ]
     },
     {
