@@ -1,10 +1,10 @@
 {
-  "scraped_at": "2026-06-09T03:00:42.754865+10:00",
+  "scraped_at": "2026-06-10T02:24:22.470922+10:00",
   "summary": {
-    "total_sessions_approved": 51,
-    "total_sessions_current_year": 38,
-    "total_hours_completed": 131.75,
-    "total_hours_current_year": 94.5,
+    "total_sessions_approved": 52,
+    "total_sessions_current_year": 39,
+    "total_hours_completed": 133.75,
+    "total_hours_current_year": 96.5,
     "unique_skills": [
       "Caring",
       "Communications",
@@ -22,6 +22,14 @@
     ]
   },
   "entries": [
+    {
+      "hours": 2.0,
+      "date": "2026-06-09",
+      "day": "Tue",
+      "shift_name": "Celebrations Crew",
+      "verified_skills": "",
+      "verified_skills_list": []
+    },
     {
       "hours": 2.0,
       "date": "2026-06-04",
@@ -55,18 +63,18 @@
       ]
     },
     {
-      "hours": 9.0,
-      "date": "2026-05-27",
-      "day": "Wed",
-      "shift_name": "Vivid Tours Assistant",
-      "verified_skills": "",
-      "verified_skills_list": []
-    },
-    {
       "hours": 1.0,
       "date": "2026-05-27",
       "day": "Wed",
       "shift_name": "Volunteer",
+      "verified_skills": "",
+      "verified_skills_list": []
+    },
+    {
+      "hours": 9.0,
+      "date": "2026-05-27",
+      "day": "Wed",
+      "shift_name": "Vivid Tours Assistant",
       "verified_skills": "",
       "verified_skills_list": []
     },
@@ -95,6 +103,14 @@
       ]
     },
     {
+      "hours": 2.25,
+      "date": "2026-05-20",
+      "day": "Wed",
+      "shift_name": "Pulse Pantry Restock",
+      "verified_skills": "",
+      "verified_skills_list": []
+    },
+    {
       "hours": 1.0,
       "date": "2026-05-20",
       "day": "Wed",
@@ -108,14 +124,6 @@
         "Communications",
         "Conflict Resolution"
       ]
-    },
-    {
-      "hours": 2.25,
-      "date": "2026-05-20",
-      "day": "Wed",
-      "shift_name": "Pulse Pantry Restock",
-      "verified_skills": "",
-      "verified_skills_list": []
     },
     {
       "hours": 2.25,
@@ -458,6 +466,14 @@
       ]
     },
     {
+      "hours": 3.0,
+      "date": "2025-10-21",
+      "day": "Tue",
+      "shift_name": "DIWALI",
+      "verified_skills": "",
+      "verified_skills_list": []
+    },
+    {
       "hours": 2.5,
       "date": "2025-10-21",
       "day": "Tue",
@@ -481,14 +497,6 @@
         "Caring",
         "Thoughtful"
       ]
-    },
-    {
-      "hours": 3.0,
-      "date": "2025-10-21",
-      "day": "Tue",
-      "shift_name": "DIWALI",
-      "verified_skills": "",
-      "verified_skills_list": []
     },
     {
       "hours": 2.75,
