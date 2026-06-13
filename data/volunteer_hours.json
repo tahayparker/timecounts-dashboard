@@ -1,5 +1,5 @@
 {
-  "scraped_at": "2026-06-12T03:31:19.333334+10:00",
+  "scraped_at": "2026-06-14T01:24:18.351501+10:00",
   "summary": {
     "total_sessions_approved": 52,
     "total_sessions_current_year": 39,
@@ -103,14 +103,6 @@
       ]
     },
     {
-      "hours": 2.25,
-      "date": "2026-05-20",
-      "day": "Wed",
-      "shift_name": "Pulse Pantry Restock",
-      "verified_skills": "",
-      "verified_skills_list": []
-    },
-    {
       "hours": 1.0,
       "date": "2026-05-20",
       "day": "Wed",
@@ -124,6 +116,14 @@
         "Communications",
         "Conflict Resolution"
       ]
+    },
+    {
+      "hours": 2.25,
+      "date": "2026-05-20",
+      "day": "Wed",
+      "shift_name": "Pulse Pantry Restock",
+      "verified_skills": "",
+      "verified_skills_list": []
     },
     {
       "hours": 2.25,
