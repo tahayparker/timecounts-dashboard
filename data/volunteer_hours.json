@@ -1,5 +1,5 @@
 {
-  "scraped_at": "2026-06-15T01:31:41.267529+10:00",
+  "scraped_at": "2026-06-16T04:20:24.227176+10:00",
   "summary": {
     "total_sessions_approved": 52,
     "total_sessions_current_year": 39,
@@ -103,14 +103,6 @@
       ]
     },
     {
-      "hours": 2.25,
-      "date": "2026-05-20",
-      "day": "Wed",
-      "shift_name": "Pulse Pantry Restock",
-      "verified_skills": "",
-      "verified_skills_list": []
-    },
-    {
       "hours": 1.0,
       "date": "2026-05-20",
       "day": "Wed",
@@ -124,6 +116,14 @@
         "Communications",
         "Conflict Resolution"
       ]
+    },
+    {
+      "hours": 2.25,
+      "date": "2026-05-20",
+      "day": "Wed",
+      "shift_name": "Pulse Pantry Restock",
+      "verified_skills": "",
+      "verified_skills_list": []
     },
     {
       "hours": 2.25,
@@ -466,6 +466,19 @@
       ]
     },
     {
+      "hours": 0.5,
+      "date": "2025-10-21",
+      "day": "Tue",
+      "shift_name": "POWER OF KINDNESS WORKSHOP",
+      "verified_skills": "Kind, Gentle, Caring, Thoughtful",
+      "verified_skills_list": [
+        "Kind",
+        "Gentle",
+        "Caring",
+        "Thoughtful"
+      ]
+    },
+    {
       "hours": 2.5,
       "date": "2025-10-21",
       "day": "Tue",
@@ -484,19 +497,6 @@
       "shift_name": "DIWALI",
       "verified_skills": "",
       "verified_skills_list": []
-    },
-    {
-      "hours": 0.5,
-      "date": "2025-10-21",
-      "day": "Tue",
-      "shift_name": "POWER OF KINDNESS WORKSHOP",
-      "verified_skills": "Kind, Gentle, Caring, Thoughtful",
-      "verified_skills_list": [
-        "Kind",
-        "Gentle",
-        "Caring",
-        "Thoughtful"
-      ]
     },
     {
       "hours": 2.75,
