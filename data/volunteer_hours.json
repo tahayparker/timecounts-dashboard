@@ -1,5 +1,5 @@
 {
-  "scraped_at": "2026-06-19T02:52:47.388427+10:00",
+  "scraped_at": "2026-06-20T02:26:47.944099+10:00",
   "summary": {
     "total_sessions_approved": 52,
     "total_sessions_current_year": 39,
@@ -103,6 +103,14 @@
       ]
     },
     {
+      "hours": 2.25,
+      "date": "2026-05-20",
+      "day": "Wed",
+      "shift_name": "Pulse Pantry Restock",
+      "verified_skills": "",
+      "verified_skills_list": []
+    },
+    {
       "hours": 1.0,
       "date": "2026-05-20",
       "day": "Wed",
@@ -116,14 +124,6 @@
         "Communications",
         "Conflict Resolution"
       ]
-    },
-    {
-      "hours": 2.25,
-      "date": "2026-05-20",
-      "day": "Wed",
-      "shift_name": "Pulse Pantry Restock",
-      "verified_skills": "",
-      "verified_skills_list": []
     },
     {
       "hours": 2.25,
@@ -466,6 +466,14 @@
       ]
     },
     {
+      "hours": 3.0,
+      "date": "2025-10-21",
+      "day": "Tue",
+      "shift_name": "DIWALI",
+      "verified_skills": "",
+      "verified_skills_list": []
+    },
+    {
       "hours": 2.5,
       "date": "2025-10-21",
       "day": "Tue",
@@ -476,14 +484,6 @@
         "Customer Focused",
         "Retail Experience"
       ]
-    },
-    {
-      "hours": 3.0,
-      "date": "2025-10-21",
-      "day": "Tue",
-      "shift_name": "DIWALI",
-      "verified_skills": "",
-      "verified_skills_list": []
     },
     {
       "hours": 0.5,
@@ -519,18 +519,18 @@
       "verified_skills_list": []
     },
     {
-      "hours": 3.0,
-      "date": "2025-10-08",
-      "day": "Wed",
-      "shift_name": "Pulse Pantry Restock",
-      "verified_skills": "",
-      "verified_skills_list": []
-    },
-    {
       "hours": 3.5,
       "date": "2025-10-08",
       "day": "Wed",
       "shift_name": "Breaky Bar",
+      "verified_skills": "",
+      "verified_skills_list": []
+    },
+    {
+      "hours": 3.0,
+      "date": "2025-10-08",
+      "day": "Wed",
+      "shift_name": "Pulse Pantry Restock",
       "verified_skills": "",
       "verified_skills_list": []
     },
