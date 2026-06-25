@@ -1,10 +1,10 @@
 {
-  "scraped_at": "2026-06-25T02:05:43.808852+10:00",
+  "scraped_at": "2026-06-26T02:13:23.817509+10:00",
   "summary": {
-    "total_sessions_approved": 52,
-    "total_sessions_current_year": 39,
-    "total_hours_completed": 133.75,
-    "total_hours_current_year": 96.5,
+    "total_sessions_approved": 53,
+    "total_sessions_current_year": 40,
+    "total_hours_completed": 136.5,
+    "total_hours_current_year": 99.25,
     "unique_skills": [
       "Caring",
       "Communications",
@@ -22,6 +22,18 @@
     ]
   },
   "entries": [
+    {
+      "hours": 2.75,
+      "date": "2026-06-25",
+      "day": "Thu",
+      "shift_name": "Pulse Pantry",
+      "verified_skills": "Customer Service, Customer Focused, Retail Experience",
+      "verified_skills_list": [
+        "Customer Service",
+        "Customer Focused",
+        "Retail Experience"
+      ]
+    },
     {
       "hours": 2.0,
       "date": "2026-06-09",
@@ -103,14 +115,6 @@
       ]
     },
     {
-      "hours": 2.25,
-      "date": "2026-05-20",
-      "day": "Wed",
-      "shift_name": "Pulse Pantry Restock",
-      "verified_skills": "",
-      "verified_skills_list": []
-    },
-    {
       "hours": 1.0,
       "date": "2026-05-20",
       "day": "Wed",
@@ -124,6 +128,14 @@
         "Communications",
         "Conflict Resolution"
       ]
+    },
+    {
+      "hours": 2.25,
+      "date": "2026-05-20",
+      "day": "Wed",
+      "shift_name": "Pulse Pantry Restock",
+      "verified_skills": "",
+      "verified_skills_list": []
     },
     {
       "hours": 2.25,
@@ -519,18 +531,18 @@
       "verified_skills_list": []
     },
     {
-      "hours": 3.5,
-      "date": "2025-10-08",
-      "day": "Wed",
-      "shift_name": "Breaky Bar",
-      "verified_skills": "",
-      "verified_skills_list": []
-    },
-    {
       "hours": 3.0,
       "date": "2025-10-08",
       "day": "Wed",
       "shift_name": "Pulse Pantry Restock",
+      "verified_skills": "",
+      "verified_skills_list": []
+    },
+    {
+      "hours": 3.5,
+      "date": "2025-10-08",
+      "day": "Wed",
+      "shift_name": "Breaky Bar",
       "verified_skills": "",
       "verified_skills_list": []
     },
