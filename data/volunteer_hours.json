@@ -1,5 +1,5 @@
 {
-  "scraped_at": "2026-06-30T02:48:50.776395+10:00",
+  "scraped_at": "2026-07-01T02:14:07.803110+10:00",
   "summary": {
     "total_sessions_approved": 54,
     "total_sessions_current_year": 41,
@@ -543,18 +543,18 @@
       "verified_skills_list": []
     },
     {
-      "hours": 3.0,
-      "date": "2025-10-08",
-      "day": "Wed",
-      "shift_name": "Pulse Pantry Restock",
-      "verified_skills": "",
-      "verified_skills_list": []
-    },
-    {
       "hours": 3.5,
       "date": "2025-10-08",
       "day": "Wed",
       "shift_name": "Breaky Bar",
+      "verified_skills": "",
+      "verified_skills_list": []
+    },
+    {
+      "hours": 3.0,
+      "date": "2025-10-08",
+      "day": "Wed",
+      "shift_name": "Pulse Pantry Restock",
       "verified_skills": "",
       "verified_skills_list": []
     },
