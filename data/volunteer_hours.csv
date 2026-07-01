@@ -1,12 +1,15 @@
 date,day,hours,shift_name,verified_skills
+2026-07-01,Wed,1.25,Pulse Pantry Restock,
+2026-06-30,Tue,1.0,CVP Meeting,
+2026-06-29,Mon,1.0,Vollie Leader Meeting,
 2026-06-26,Fri,1.25,Pulse Pantry,"Customer Service, Customer Focused, Retail Experience"
 2026-06-25,Thu,2.75,Pulse Pantry,"Customer Service, Customer Focused, Retail Experience"
 2026-06-09,Tue,2.0,Celebrations Crew,
 2026-06-04,Thu,2.0,BREAKFAST AFTER DARK,
 2026-05-29,Fri,2.5,Pulse Pantry,"Customer Service, Customer Focused, Retail Experience"
 2026-05-28,Thu,3.75,Pulse Pantry,"Customer Service, Customer Focused, Retail Experience"
-2026-05-27,Wed,1.0,Volunteer,
 2026-05-27,Wed,9.0,Vivid Tours Assistant,
+2026-05-27,Wed,1.0,Volunteer,
 2026-05-22,Fri,2.25,Pulse Pantry,"Customer Service, Customer Focused, Retail Experience"
 2026-05-21,Thu,3.25,Pulse Pantry,"Customer Service, Customer Focused, Retail Experience"
 2026-05-20,Wed,2.25,Pulse Pantry Restock,
@@ -43,9 +46,9 @@ date,day,hours,shift_name,verified_skills
 2025-11-20,Thu,2.5,Pulse Pantry,"Customer Service, Customer Focused, Retail Experience"
 2025-11-18,Tue,3.0,Pulse Pantry,"Customer Service, Customer Focused, Retail Experience"
 2025-10-28,Tue,2.75,Pulse Pantry,"Customer Service, Customer Focused, Retail Experience"
-2025-10-21,Tue,0.5,POWER OF KINDNESS WORKSHOP,"Kind, Gentle, Caring, Thoughtful"
 2025-10-21,Tue,2.5,Pulse Pantry,"Customer Service, Customer Focused, Retail Experience"
 2025-10-21,Tue,3.0,DIWALI,
+2025-10-21,Tue,0.5,POWER OF KINDNESS WORKSHOP,"Kind, Gentle, Caring, Thoughtful"
 2025-10-14,Tue,2.75,Pulse Pantry,"Customer Service, Customer Focused, Retail Experience"
 2025-10-10,Fri,2.75,Party Crew,
 2025-10-08,Wed,3.5,Breaky Bar,
