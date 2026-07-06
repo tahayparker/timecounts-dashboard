@@ -1,5 +1,5 @@
 {
-  "scraped_at": "2026-07-06T01:04:52.919371+10:00",
+  "scraped_at": "2026-07-07T02:47:06.603649+10:00",
   "summary": {
     "total_sessions_approved": 57,
     "total_sessions_current_year": 44,
@@ -514,14 +514,6 @@
       ]
     },
     {
-      "hours": 3.0,
-      "date": "2025-10-21",
-      "day": "Tue",
-      "shift_name": "DIWALI",
-      "verified_skills": "",
-      "verified_skills_list": []
-    },
-    {
       "hours": 2.5,
       "date": "2025-10-21",
       "day": "Tue",
@@ -545,6 +537,14 @@
         "Caring",
         "Thoughtful"
       ]
+    },
+    {
+      "hours": 3.0,
+      "date": "2025-10-21",
+      "day": "Tue",
+      "shift_name": "DIWALI",
+      "verified_skills": "",
+      "verified_skills_list": []
     },
     {
       "hours": 2.75,
