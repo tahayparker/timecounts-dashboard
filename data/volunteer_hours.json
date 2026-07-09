@@ -1,5 +1,5 @@
 {
-  "scraped_at": "2026-07-09T01:56:43.314107+10:00",
+  "scraped_at": "2026-07-10T02:20:13.062352+10:00",
   "summary": {
     "total_sessions_approved": 57,
     "total_sessions_current_year": 44,
@@ -151,6 +151,14 @@
       ]
     },
     {
+      "hours": 2.25,
+      "date": "2026-05-20",
+      "day": "Wed",
+      "shift_name": "Pulse Pantry Restock",
+      "verified_skills": "",
+      "verified_skills_list": []
+    },
+    {
       "hours": 1.0,
       "date": "2026-05-20",
       "day": "Wed",
@@ -164,14 +172,6 @@
         "Communications",
         "Conflict Resolution"
       ]
-    },
-    {
-      "hours": 2.25,
-      "date": "2026-05-20",
-      "day": "Wed",
-      "shift_name": "Pulse Pantry Restock",
-      "verified_skills": "",
-      "verified_skills_list": []
     },
     {
       "hours": 2.25,
@@ -514,17 +514,12 @@
       ]
     },
     {
-      "hours": 0.5,
+      "hours": 3.0,
       "date": "2025-10-21",
       "day": "Tue",
-      "shift_name": "POWER OF KINDNESS WORKSHOP",
-      "verified_skills": "Kind, Gentle, Caring, Thoughtful",
-      "verified_skills_list": [
-        "Kind",
-        "Gentle",
-        "Caring",
-        "Thoughtful"
-      ]
+      "shift_name": "DIWALI",
+      "verified_skills": "",
+      "verified_skills_list": []
     },
     {
       "hours": 2.5,
@@ -539,12 +534,17 @@
       ]
     },
     {
-      "hours": 3.0,
+      "hours": 0.5,
       "date": "2025-10-21",
       "day": "Tue",
-      "shift_name": "DIWALI",
-      "verified_skills": "",
-      "verified_skills_list": []
+      "shift_name": "POWER OF KINDNESS WORKSHOP",
+      "verified_skills": "Kind, Gentle, Caring, Thoughtful",
+      "verified_skills_list": [
+        "Kind",
+        "Gentle",
+        "Caring",
+        "Thoughtful"
+      ]
     },
     {
       "hours": 2.75,
@@ -567,18 +567,18 @@
       "verified_skills_list": []
     },
     {
-      "hours": 3.0,
-      "date": "2025-10-08",
-      "day": "Wed",
-      "shift_name": "Pulse Pantry Restock",
-      "verified_skills": "",
-      "verified_skills_list": []
-    },
-    {
       "hours": 3.5,
       "date": "2025-10-08",
       "day": "Wed",
       "shift_name": "Breaky Bar",
+      "verified_skills": "",
+      "verified_skills_list": []
+    },
+    {
+      "hours": 3.0,
+      "date": "2025-10-08",
+      "day": "Wed",
+      "shift_name": "Pulse Pantry Restock",
       "verified_skills": "",
       "verified_skills_list": []
     },
