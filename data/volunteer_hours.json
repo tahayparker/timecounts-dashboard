@@ -1,5 +1,5 @@
 {
-  "scraped_at": "2026-07-11T02:12:06.033756+10:00",
+  "scraped_at": "2026-07-12T00:43:18.952366+10:00",
   "summary": {
     "total_sessions_approved": 57,
     "total_sessions_current_year": 44,
@@ -111,18 +111,18 @@
       ]
     },
     {
-      "hours": 1.0,
-      "date": "2026-05-27",
-      "day": "Wed",
-      "shift_name": "Volunteer",
-      "verified_skills": "",
-      "verified_skills_list": []
-    },
-    {
       "hours": 9.0,
       "date": "2026-05-27",
       "day": "Wed",
       "shift_name": "Vivid Tours Assistant",
+      "verified_skills": "",
+      "verified_skills_list": []
+    },
+    {
+      "hours": 1.0,
+      "date": "2026-05-27",
+      "day": "Wed",
+      "shift_name": "Volunteer",
       "verified_skills": "",
       "verified_skills_list": []
     },
