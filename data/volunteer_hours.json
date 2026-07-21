@@ -1,5 +1,5 @@
 {
-  "scraped_at": "2026-07-21T01:42:45.010799+10:00",
+  "scraped_at": "2026-07-22T01:27:49.128096+10:00",
   "summary": {
     "total_sessions_approved": 60,
     "total_sessions_current_year": 47,
@@ -179,6 +179,14 @@
       ]
     },
     {
+      "hours": 2.25,
+      "date": "2026-05-20",
+      "day": "Wed",
+      "shift_name": "Pulse Pantry Restock",
+      "verified_skills": "",
+      "verified_skills_list": []
+    },
+    {
       "hours": 1.0,
       "date": "2026-05-20",
       "day": "Wed",
@@ -192,14 +200,6 @@
         "Communications",
         "Conflict Resolution"
       ]
-    },
-    {
-      "hours": 2.25,
-      "date": "2026-05-20",
-      "day": "Wed",
-      "shift_name": "Pulse Pantry Restock",
-      "verified_skills": "",
-      "verified_skills_list": []
     },
     {
       "hours": 2.25,
@@ -542,6 +542,14 @@
       ]
     },
     {
+      "hours": 3.0,
+      "date": "2025-10-21",
+      "day": "Tue",
+      "shift_name": "DIWALI",
+      "verified_skills": "",
+      "verified_skills_list": []
+    },
+    {
       "hours": 0.5,
       "date": "2025-10-21",
       "day": "Tue",
@@ -567,14 +575,6 @@
       ]
     },
     {
-      "hours": 3.0,
-      "date": "2025-10-21",
-      "day": "Tue",
-      "shift_name": "DIWALI",
-      "verified_skills": "",
-      "verified_skills_list": []
-    },
-    {
       "hours": 2.75,
       "date": "2025-10-14",
       "day": "Tue",
@@ -595,18 +595,18 @@
       "verified_skills_list": []
     },
     {
-      "hours": 3.5,
-      "date": "2025-10-08",
-      "day": "Wed",
-      "shift_name": "Breaky Bar",
-      "verified_skills": "",
-      "verified_skills_list": []
-    },
-    {
       "hours": 3.0,
       "date": "2025-10-08",
       "day": "Wed",
       "shift_name": "Pulse Pantry Restock",
+      "verified_skills": "",
+      "verified_skills_list": []
+    },
+    {
+      "hours": 3.5,
+      "date": "2025-10-08",
+      "day": "Wed",
+      "shift_name": "Breaky Bar",
       "verified_skills": "",
       "verified_skills_list": []
     },
