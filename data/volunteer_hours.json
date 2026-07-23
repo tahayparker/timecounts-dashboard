@@ -1,10 +1,10 @@
 {
-  "scraped_at": "2026-07-23T01:25:14.507097+10:00",
+  "scraped_at": "2026-07-24T01:46:35.617864+10:00",
   "summary": {
-    "total_sessions_approved": 60,
-    "total_sessions_current_year": 47,
-    "total_hours_completed": 147.75,
-    "total_hours_current_year": 110.5,
+    "total_sessions_approved": 61,
+    "total_sessions_current_year": 48,
+    "total_hours_completed": 150.0,
+    "total_hours_current_year": 112.75,
     "unique_skills": [
       "Caring",
       "Communications",
@@ -22,6 +22,18 @@
     ]
   },
   "entries": [
+    {
+      "hours": 2.25,
+      "date": "2026-07-23",
+      "day": "Thu",
+      "shift_name": "Pulse Pantry",
+      "verified_skills": "Customer Service, Customer Focused, Retail Experience",
+      "verified_skills_list": [
+        "Customer Service",
+        "Customer Focused",
+        "Retail Experience"
+      ]
+    },
     {
       "hours": 2.25,
       "date": "2026-07-17",
@@ -179,14 +191,6 @@
       ]
     },
     {
-      "hours": 2.25,
-      "date": "2026-05-20",
-      "day": "Wed",
-      "shift_name": "Pulse Pantry Restock",
-      "verified_skills": "",
-      "verified_skills_list": []
-    },
-    {
       "hours": 1.0,
       "date": "2026-05-20",
       "day": "Wed",
@@ -200,6 +204,14 @@
         "Communications",
         "Conflict Resolution"
       ]
+    },
+    {
+      "hours": 2.25,
+      "date": "2026-05-20",
+      "day": "Wed",
+      "shift_name": "Pulse Pantry Restock",
+      "verified_skills": "",
+      "verified_skills_list": []
     },
     {
       "hours": 2.25,
@@ -542,15 +554,16 @@
       ]
     },
     {
-      "hours": 2.5,
+      "hours": 0.5,
       "date": "2025-10-21",
       "day": "Tue",
-      "shift_name": "Pulse Pantry",
-      "verified_skills": "Customer Service, Customer Focused, Retail Experience",
+      "shift_name": "POWER OF KINDNESS WORKSHOP",
+      "verified_skills": "Kind, Gentle, Caring, Thoughtful",
       "verified_skills_list": [
-        "Customer Service",
-        "Customer Focused",
-        "Retail Experience"
+        "Kind",
+        "Gentle",
+        "Caring",
+        "Thoughtful"
       ]
     },
     {
@@ -562,16 +575,15 @@
       "verified_skills_list": []
     },
     {
-      "hours": 0.5,
+      "hours": 2.5,
       "date": "2025-10-21",
       "day": "Tue",
-      "shift_name": "POWER OF KINDNESS WORKSHOP",
-      "verified_skills": "Kind, Gentle, Caring, Thoughtful",
+      "shift_name": "Pulse Pantry",
+      "verified_skills": "Customer Service, Customer Focused, Retail Experience",
       "verified_skills_list": [
-        "Kind",
-        "Gentle",
-        "Caring",
-        "Thoughtful"
+        "Customer Service",
+        "Customer Focused",
+        "Retail Experience"
       ]
     },
     {
@@ -595,18 +607,18 @@
       "verified_skills_list": []
     },
     {
-      "hours": 3.5,
-      "date": "2025-10-08",
-      "day": "Wed",
-      "shift_name": "Breaky Bar",
-      "verified_skills": "",
-      "verified_skills_list": []
-    },
-    {
       "hours": 3.0,
       "date": "2025-10-08",
       "day": "Wed",
       "shift_name": "Pulse Pantry Restock",
+      "verified_skills": "",
+      "verified_skills_list": []
+    },
+    {
+      "hours": 3.5,
+      "date": "2025-10-08",
+      "day": "Wed",
+      "shift_name": "Breaky Bar",
       "verified_skills": "",
       "verified_skills_list": []
     },
