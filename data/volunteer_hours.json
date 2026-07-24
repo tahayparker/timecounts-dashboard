@@ -1,10 +1,10 @@
 {
-  "scraped_at": "2026-07-24T01:46:35.617864+10:00",
+  "scraped_at": "2026-07-25T01:19:42.251256+10:00",
   "summary": {
-    "total_sessions_approved": 61,
-    "total_sessions_current_year": 48,
-    "total_hours_completed": 150.0,
-    "total_hours_current_year": 112.75,
+    "total_sessions_approved": 62,
+    "total_sessions_current_year": 49,
+    "total_hours_completed": 152.0,
+    "total_hours_current_year": 114.75,
     "unique_skills": [
       "Caring",
       "Communications",
@@ -22,6 +22,14 @@
     ]
   },
   "entries": [
+    {
+      "hours": 2.0,
+      "date": "2026-07-23",
+      "day": "Thu",
+      "shift_name": "Vollie Attendee",
+      "verified_skills": "",
+      "verified_skills_list": []
+    },
     {
       "hours": 2.25,
       "date": "2026-07-23",
@@ -567,14 +575,6 @@
       ]
     },
     {
-      "hours": 3.0,
-      "date": "2025-10-21",
-      "day": "Tue",
-      "shift_name": "DIWALI",
-      "verified_skills": "",
-      "verified_skills_list": []
-    },
-    {
       "hours": 2.5,
       "date": "2025-10-21",
       "day": "Tue",
@@ -585,6 +585,14 @@
         "Customer Focused",
         "Retail Experience"
       ]
+    },
+    {
+      "hours": 3.0,
+      "date": "2025-10-21",
+      "day": "Tue",
+      "shift_name": "DIWALI",
+      "verified_skills": "",
+      "verified_skills_list": []
     },
     {
       "hours": 2.75,
