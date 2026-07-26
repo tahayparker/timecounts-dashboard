@@ -1,5 +1,5 @@
 {
-  "scraped_at": "2026-07-26T00:54:05.646166+10:00",
+  "scraped_at": "2026-07-27T00:55:31.520260+10:00",
   "summary": {
     "total_sessions_approved": 62,
     "total_sessions_current_year": 49,
@@ -159,18 +159,18 @@
       ]
     },
     {
-      "hours": 1.0,
-      "date": "2026-05-27",
-      "day": "Wed",
-      "shift_name": "Volunteer",
-      "verified_skills": "",
-      "verified_skills_list": []
-    },
-    {
       "hours": 9.0,
       "date": "2026-05-27",
       "day": "Wed",
       "shift_name": "Vivid Tours Assistant",
+      "verified_skills": "",
+      "verified_skills_list": []
+    },
+    {
+      "hours": 1.0,
+      "date": "2026-05-27",
+      "day": "Wed",
+      "shift_name": "Volunteer",
       "verified_skills": "",
       "verified_skills_list": []
     },
@@ -562,14 +562,6 @@
       ]
     },
     {
-      "hours": 3.0,
-      "date": "2025-10-21",
-      "day": "Tue",
-      "shift_name": "DIWALI",
-      "verified_skills": "",
-      "verified_skills_list": []
-    },
-    {
       "hours": 2.5,
       "date": "2025-10-21",
       "day": "Tue",
@@ -580,6 +572,14 @@
         "Customer Focused",
         "Retail Experience"
       ]
+    },
+    {
+      "hours": 3.0,
+      "date": "2025-10-21",
+      "day": "Tue",
+      "shift_name": "DIWALI",
+      "verified_skills": "",
+      "verified_skills_list": []
     },
     {
       "hours": 0.5,
@@ -615,18 +615,18 @@
       "verified_skills_list": []
     },
     {
-      "hours": 3.0,
-      "date": "2025-10-08",
-      "day": "Wed",
-      "shift_name": "Pulse Pantry Restock",
-      "verified_skills": "",
-      "verified_skills_list": []
-    },
-    {
       "hours": 3.5,
       "date": "2025-10-08",
       "day": "Wed",
       "shift_name": "Breaky Bar",
+      "verified_skills": "",
+      "verified_skills_list": []
+    },
+    {
+      "hours": 3.0,
+      "date": "2025-10-08",
+      "day": "Wed",
+      "shift_name": "Pulse Pantry Restock",
       "verified_skills": "",
       "verified_skills_list": []
     },
