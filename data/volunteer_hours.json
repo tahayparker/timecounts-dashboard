@@ -1,10 +1,10 @@
 {
-  "scraped_at": "2026-07-30T01:43:20.386976+10:00",
+  "scraped_at": "2026-07-30T22:22:42.461813+10:00",
   "summary": {
-    "total_sessions_approved": 64,
-    "total_sessions_current_year": 51,
-    "total_hours_completed": 156.5,
-    "total_hours_current_year": 119.25,
+    "total_sessions_approved": 66,
+    "total_sessions_current_year": 53,
+    "total_hours_completed": 165.5,
+    "total_hours_current_year": 128.25,
     "unique_skills": [
       "Caring",
       "Communications",
@@ -22,6 +22,26 @@
     ]
   },
   "entries": [
+    {
+      "hours": 6.5,
+      "date": "2026-07-30",
+      "day": "Thu",
+      "shift_name": "Pulse Pantry",
+      "verified_skills": "Customer Service, Customer Focused, Retail Experience",
+      "verified_skills_list": [
+        "Customer Service",
+        "Customer Focused",
+        "Retail Experience"
+      ]
+    },
+    {
+      "hours": 2.5,
+      "date": "2026-07-30",
+      "day": "Thu",
+      "shift_name": "Ticket Scanning",
+      "verified_skills": "",
+      "verified_skills_list": []
+    },
     {
       "hours": 2.5,
       "date": "2026-07-28",
@@ -43,14 +63,6 @@
       "verified_skills_list": []
     },
     {
-      "hours": 2.0,
-      "date": "2026-07-23",
-      "day": "Thu",
-      "shift_name": "Vollie Attendee",
-      "verified_skills": "",
-      "verified_skills_list": []
-    },
-    {
       "hours": 2.25,
       "date": "2026-07-23",
       "day": "Thu",
@@ -61,6 +73,14 @@
         "Customer Focused",
         "Retail Experience"
       ]
+    },
+    {
+      "hours": 2.0,
+      "date": "2026-07-23",
+      "day": "Thu",
+      "shift_name": "Vollie Attendee",
+      "verified_skills": "",
+      "verified_skills_list": []
     },
     {
       "hours": 2.25,
@@ -582,19 +602,6 @@
       ]
     },
     {
-      "hours": 0.5,
-      "date": "2025-10-21",
-      "day": "Tue",
-      "shift_name": "POWER OF KINDNESS WORKSHOP",
-      "verified_skills": "Kind, Gentle, Caring, Thoughtful",
-      "verified_skills_list": [
-        "Kind",
-        "Gentle",
-        "Caring",
-        "Thoughtful"
-      ]
-    },
-    {
       "hours": 2.5,
       "date": "2025-10-21",
       "day": "Tue",
@@ -613,6 +620,19 @@
       "shift_name": "DIWALI",
       "verified_skills": "",
       "verified_skills_list": []
+    },
+    {
+      "hours": 0.5,
+      "date": "2025-10-21",
+      "day": "Tue",
+      "shift_name": "POWER OF KINDNESS WORKSHOP",
+      "verified_skills": "Kind, Gentle, Caring, Thoughtful",
+      "verified_skills_list": [
+        "Kind",
+        "Gentle",
+        "Caring",
+        "Thoughtful"
+      ]
     },
     {
       "hours": 2.75,
@@ -635,18 +655,18 @@
       "verified_skills_list": []
     },
     {
-      "hours": 3.0,
-      "date": "2025-10-08",
-      "day": "Wed",
-      "shift_name": "Pulse Pantry Restock",
-      "verified_skills": "",
-      "verified_skills_list": []
-    },
-    {
       "hours": 3.5,
       "date": "2025-10-08",
       "day": "Wed",
       "shift_name": "Breaky Bar",
+      "verified_skills": "",
+      "verified_skills_list": []
+    },
+    {
+      "hours": 3.0,
+      "date": "2025-10-08",
+      "day": "Wed",
+      "shift_name": "Pulse Pantry Restock",
       "verified_skills": "",
       "verified_skills_list": []
     },
