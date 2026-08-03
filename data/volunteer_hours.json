@@ -1,10 +1,10 @@
 {
-  "scraped_at": "2026-08-03T00:53:10.295447+10:00",
+  "scraped_at": "2026-08-04T02:12:39.831415+10:00",
   "summary": {
-    "total_sessions_approved": 67,
-    "total_sessions_current_year": 54,
-    "total_hours_completed": 168.0,
-    "total_hours_current_year": 130.75,
+    "total_sessions_approved": 68,
+    "total_sessions_current_year": 55,
+    "total_hours_completed": 171.0,
+    "total_hours_current_year": 133.75,
     "unique_skills": [
       "Caring",
       "Communications",
@@ -22,6 +22,14 @@
     ]
   },
   "entries": [
+    {
+      "hours": 3.0,
+      "date": "2026-07-31",
+      "day": "Fri",
+      "shift_name": "Set Up & Ticketing",
+      "verified_skills": "",
+      "verified_skills_list": []
+    },
     {
       "hours": 2.5,
       "date": "2026-07-31",
@@ -75,6 +83,14 @@
       "verified_skills_list": []
     },
     {
+      "hours": 2.0,
+      "date": "2026-07-23",
+      "day": "Thu",
+      "shift_name": "Vollie Attendee",
+      "verified_skills": "",
+      "verified_skills_list": []
+    },
+    {
       "hours": 2.25,
       "date": "2026-07-23",
       "day": "Thu",
@@ -85,14 +101,6 @@
         "Customer Focused",
         "Retail Experience"
       ]
-    },
-    {
-      "hours": 2.0,
-      "date": "2026-07-23",
-      "day": "Thu",
-      "shift_name": "Vollie Attendee",
-      "verified_skills": "",
-      "verified_skills_list": []
     },
     {
       "hours": 2.25,
@@ -211,18 +219,18 @@
       ]
     },
     {
-      "hours": 9.0,
-      "date": "2026-05-27",
-      "day": "Wed",
-      "shift_name": "Vivid Tours Assistant",
-      "verified_skills": "",
-      "verified_skills_list": []
-    },
-    {
       "hours": 1.0,
       "date": "2026-05-27",
       "day": "Wed",
       "shift_name": "Volunteer",
+      "verified_skills": "",
+      "verified_skills_list": []
+    },
+    {
+      "hours": 9.0,
+      "date": "2026-05-27",
+      "day": "Wed",
+      "shift_name": "Vivid Tours Assistant",
       "verified_skills": "",
       "verified_skills_list": []
     },
@@ -251,14 +259,6 @@
       ]
     },
     {
-      "hours": 2.25,
-      "date": "2026-05-20",
-      "day": "Wed",
-      "shift_name": "Pulse Pantry Restock",
-      "verified_skills": "",
-      "verified_skills_list": []
-    },
-    {
       "hours": 1.0,
       "date": "2026-05-20",
       "day": "Wed",
@@ -272,6 +272,14 @@
         "Communications",
         "Conflict Resolution"
       ]
+    },
+    {
+      "hours": 2.25,
+      "date": "2026-05-20",
+      "day": "Wed",
+      "shift_name": "Pulse Pantry Restock",
+      "verified_skills": "",
+      "verified_skills_list": []
     },
     {
       "hours": 2.25,
@@ -667,18 +675,18 @@
       "verified_skills_list": []
     },
     {
-      "hours": 3.0,
-      "date": "2025-10-08",
-      "day": "Wed",
-      "shift_name": "Pulse Pantry Restock",
-      "verified_skills": "",
-      "verified_skills_list": []
-    },
-    {
       "hours": 3.5,
       "date": "2025-10-08",
       "day": "Wed",
       "shift_name": "Breaky Bar",
+      "verified_skills": "",
+      "verified_skills_list": []
+    },
+    {
+      "hours": 3.0,
+      "date": "2025-10-08",
+      "day": "Wed",
+      "shift_name": "Pulse Pantry Restock",
       "verified_skills": "",
       "verified_skills_list": []
     },
