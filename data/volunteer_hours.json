@@ -1,5 +1,5 @@
 {
-  "scraped_at": "2026-08-14T00:49:15.728350+10:00",
+  "scraped_at": "2026-08-15T00:43:43.572696+10:00",
   "summary": {
     "total_sessions_approved": 82,
     "total_sessions_current_year": 69,
@@ -67,18 +67,6 @@
       "verified_skills_list": []
     },
     {
-      "hours": 4.75,
-      "date": "2026-08-06",
-      "day": "Thu",
-      "shift_name": "Pulse Pantry",
-      "verified_skills": "Customer Service, Customer Focused, Retail Experience",
-      "verified_skills_list": [
-        "Customer Service",
-        "Customer Focused",
-        "Retail Experience"
-      ]
-    },
-    {
       "hours": 2.0,
       "date": "2026-08-06",
       "day": "Thu",
@@ -95,7 +83,19 @@
       "verified_skills_list": []
     },
     {
-      "hours": 0.0,
+      "hours": 4.75,
+      "date": "2026-08-06",
+      "day": "Thu",
+      "shift_name": "Pulse Pantry",
+      "verified_skills": "Customer Service, Customer Focused, Retail Experience",
+      "verified_skills_list": [
+        "Customer Service",
+        "Customer Focused",
+        "Retail Experience"
+      ]
+    },
+    {
+      "hours": 2.0,
       "date": "2026-08-05",
       "day": "Wed",
       "shift_name": "Breaky Bar",
@@ -103,7 +103,7 @@
       "verified_skills_list": []
     },
     {
-      "hours": 2.0,
+      "hours": 0.0,
       "date": "2026-08-05",
       "day": "Wed",
       "shift_name": "Breaky Bar",
@@ -139,14 +139,6 @@
       "verified_skills_list": []
     },
     {
-      "hours": 4.5,
-      "date": "2026-07-31",
-      "day": "Fri",
-      "shift_name": "Set Up & Ticketing",
-      "verified_skills": "",
-      "verified_skills_list": []
-    },
-    {
       "hours": 2.5,
       "date": "2026-07-31",
       "day": "Fri",
@@ -167,6 +159,22 @@
       "verified_skills_list": []
     },
     {
+      "hours": 4.5,
+      "date": "2026-07-31",
+      "day": "Fri",
+      "shift_name": "Set Up & Ticketing",
+      "verified_skills": "",
+      "verified_skills_list": []
+    },
+    {
+      "hours": 2.5,
+      "date": "2026-07-30",
+      "day": "Thu",
+      "shift_name": "Ticket Scanning",
+      "verified_skills": "",
+      "verified_skills_list": []
+    },
+    {
       "hours": 6.5,
       "date": "2026-07-30",
       "day": "Thu",
@@ -177,14 +185,6 @@
         "Customer Focused",
         "Retail Experience"
       ]
-    },
-    {
-      "hours": 2.5,
-      "date": "2026-07-30",
-      "day": "Thu",
-      "shift_name": "Ticket Scanning",
-      "verified_skills": "",
-      "verified_skills_list": []
     },
     {
       "hours": 2.5,
@@ -343,18 +343,18 @@
       ]
     },
     {
-      "hours": 9.0,
-      "date": "2026-05-27",
-      "day": "Wed",
-      "shift_name": "Vivid Tours Assistant",
-      "verified_skills": "",
-      "verified_skills_list": []
-    },
-    {
       "hours": 1.0,
       "date": "2026-05-27",
       "day": "Wed",
       "shift_name": "Volunteer",
+      "verified_skills": "",
+      "verified_skills_list": []
+    },
+    {
+      "hours": 9.0,
+      "date": "2026-05-27",
+      "day": "Wed",
+      "shift_name": "Vivid Tours Assistant",
       "verified_skills": "",
       "verified_skills_list": []
     },
