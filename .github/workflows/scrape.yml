@@ -1,5 +1,4 @@
 name: Scrape Timecounts Volunteer Hours
-
 on:
   # Run daily at 00:00 Sydney Time
   schedule:
@@ -7,28 +6,31 @@ on:
       timezone: "Australia/Sydney"
   # Allow manual trigger
   workflow_dispatch:
-
 permissions:
   contents: write
-
 jobs:
   scrape:
     runs-on: ubuntu-latest
     timeout-minutes: 10
-
     steps:
       - name: Checkout repository
         uses: actions/checkout@v4
-
       - name: Set up Python
         uses: actions/setup-python@v5
         with:
           python-version: "3.12"
           cache: "pip"
-
       - name: Install dependencies
         run: pip install -r script/requirements.txt
-
+      - name: Debug secret lengths
+        env:
+          TIMECOUNTS_EMAIL: ${{ secrets.TIMECOUNTS_EMAIL }}
+          TIMECOUNTS_PASSWORD: ${{ secrets.TIMECOUNTS_PASSWORD }}
+          TIMECOUNTS_CLIENT_SECRET: ${{ secrets.TIMECOUNTS_CLIENT_SECRET }}
+        run: |
+          echo "email length: ${#TIMECOUNTS_EMAIL}"
+          echo "password length: ${#TIMECOUNTS_PASSWORD}"
+          echo "client_secret length: ${#TIMECOUNTS_CLIENT_SECRET}"
       - name: Run scraper
         env:
           TIMECOUNTS_EMAIL: ${{ secrets.TIMECOUNTS_EMAIL }}
@@ -36,7 +38,6 @@ jobs:
           TIMECOUNTS_CLIENT_SECRET: ${{ secrets.TIMECOUNTS_CLIENT_SECRET }}
           DATABASE_URL: ${{ secrets.DATABASE_URL }}
         run: python script/scraper.py
-
       - name: Commit updated data
         run: |
           git config user.name "Taha Parker"
