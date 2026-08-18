@@ -1,5 +1,5 @@
 {
-  "scraped_at": "2026-08-19T00:19:55.946089+10:00",
+  "scraped_at": "2026-08-19T08:37:15.149484+10:00",
   "summary": {
     "total_sessions_approved": 85,
     "total_sessions_current_year": 72,
@@ -67,18 +67,18 @@
       "verified_skills_list": []
     },
     {
-      "hours": 4.0,
-      "date": "2026-08-07",
-      "day": "Fri",
-      "shift_name": "Pulse Pantry",
-      "verified_skills": "",
-      "verified_skills_list": []
-    },
-    {
       "hours": 1.0,
       "date": "2026-08-07",
       "day": "Fri",
       "shift_name": "Volunteer Leader Meetting",
+      "verified_skills": "",
+      "verified_skills_list": []
+    },
+    {
+      "hours": 4.0,
+      "date": "2026-08-07",
+      "day": "Fri",
+      "shift_name": "Pulse Pantry",
       "verified_skills": "",
       "verified_skills_list": []
     },
@@ -107,7 +107,7 @@
       "verified_skills_list": []
     },
     {
-      "hours": 2.0,
+      "hours": 0.0,
       "date": "2026-08-05",
       "day": "Wed",
       "shift_name": "Breaky Bar",
@@ -115,7 +115,7 @@
       "verified_skills_list": []
     },
     {
-      "hours": 0.0,
+      "hours": 2.0,
       "date": "2026-08-05",
       "day": "Wed",
       "shift_name": "Breaky Bar",
@@ -147,7 +147,7 @@
       "verified_skills_list": []
     },
     {
-      "hours": 3.0,
+      "hours": 4.5,
       "date": "2026-07-31",
       "day": "Fri",
       "shift_name": "Set Up & Ticketing",
@@ -155,7 +155,7 @@
       "verified_skills_list": []
     },
     {
-      "hours": 4.5,
+      "hours": 3.0,
       "date": "2026-07-31",
       "day": "Fri",
       "shift_name": "Set Up & Ticketing",
@@ -619,14 +619,6 @@
       "verified_skills_list": []
     },
     {
-      "hours": 0.5,
-      "date": "2025-10-21",
-      "day": "Tue",
-      "shift_name": "POWER OF KINDNESS WORKSHOP",
-      "verified_skills": "",
-      "verified_skills_list": []
-    },
-    {
       "hours": 2.5,
       "date": "2025-10-21",
       "day": "Tue",
@@ -639,6 +631,14 @@
       "date": "2025-10-21",
       "day": "Tue",
       "shift_name": "DIWALI",
+      "verified_skills": "",
+      "verified_skills_list": []
+    },
+    {
+      "hours": 0.5,
+      "date": "2025-10-21",
+      "day": "Tue",
+      "shift_name": "POWER OF KINDNESS WORKSHOP",
       "verified_skills": "",
       "verified_skills_list": []
     },
