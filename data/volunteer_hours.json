@@ -1,10 +1,10 @@
 {
-  "scraped_at": "2026-08-18T00:15:50.380735+10:00",
+  "scraped_at": "2026-08-18T15:50:57.771327+10:00",
   "summary": {
-    "total_sessions_approved": 83,
-    "total_sessions_current_year": 70,
-    "total_hours_completed": 211.5,
-    "total_hours_current_year": 174.25,
+    "total_sessions_approved": 84,
+    "total_sessions_current_year": 71,
+    "total_hours_completed": 216.75,
+    "total_hours_current_year": 179.5,
     "unique_skills": [
       "Caring",
       "Communications",
@@ -22,6 +22,18 @@
     ]
   },
   "entries": [
+    {
+      "hours": 5.25,
+      "date": "2026-08-18",
+      "day": "Tue",
+      "shift_name": "Pulse Pantry",
+      "verified_skills": "Customer Service, Customer Focused, Retail Experience",
+      "verified_skills_list": [
+        "Customer Service",
+        "Customer Focused",
+        "Retail Experience"
+      ]
+    },
     {
       "hours": 6.0,
       "date": "2026-08-17",
@@ -55,14 +67,6 @@
       "verified_skills_list": []
     },
     {
-      "hours": 1.0,
-      "date": "2026-08-07",
-      "day": "Fri",
-      "shift_name": "Volunteer Leader Meetting",
-      "verified_skills": "",
-      "verified_skills_list": []
-    },
-    {
       "hours": 4.0,
       "date": "2026-08-07",
       "day": "Fri",
@@ -75,10 +79,10 @@
       ]
     },
     {
-      "hours": 2.5,
-      "date": "2026-08-06",
-      "day": "Thu",
-      "shift_name": "Hearty Helpings",
+      "hours": 1.0,
+      "date": "2026-08-07",
+      "day": "Fri",
+      "shift_name": "Volunteer Leader Meetting",
       "verified_skills": "",
       "verified_skills_list": []
     },
@@ -87,6 +91,14 @@
       "date": "2026-08-06",
       "day": "Thu",
       "shift_name": "Breaky Bar",
+      "verified_skills": "",
+      "verified_skills_list": []
+    },
+    {
+      "hours": 2.5,
+      "date": "2026-08-06",
+      "day": "Thu",
+      "shift_name": "Hearty Helpings",
       "verified_skills": "",
       "verified_skills_list": []
     },
@@ -103,7 +115,7 @@
       ]
     },
     {
-      "hours": 2.0,
+      "hours": 0.0,
       "date": "2026-08-05",
       "day": "Wed",
       "shift_name": "Breaky Bar",
@@ -111,7 +123,7 @@
       "verified_skills_list": []
     },
     {
-      "hours": 0.0,
+      "hours": 2.0,
       "date": "2026-08-05",
       "day": "Wed",
       "shift_name": "Breaky Bar",
@@ -155,14 +167,6 @@
       "verified_skills_list": []
     },
     {
-      "hours": 3.0,
-      "date": "2026-07-31",
-      "day": "Fri",
-      "shift_name": "Set Up & Ticketing",
-      "verified_skills": "",
-      "verified_skills_list": []
-    },
-    {
       "hours": 2.5,
       "date": "2026-07-31",
       "day": "Fri",
@@ -173,6 +177,22 @@
         "Customer Focused",
         "Retail Experience"
       ]
+    },
+    {
+      "hours": 3.0,
+      "date": "2026-07-31",
+      "day": "Fri",
+      "shift_name": "Set Up & Ticketing",
+      "verified_skills": "",
+      "verified_skills_list": []
+    },
+    {
+      "hours": 2.5,
+      "date": "2026-07-30",
+      "day": "Thu",
+      "shift_name": "Ticket Scanning",
+      "verified_skills": "",
+      "verified_skills_list": []
     },
     {
       "hours": 6.5,
@@ -185,14 +205,6 @@
         "Customer Focused",
         "Retail Experience"
       ]
-    },
-    {
-      "hours": 2.5,
-      "date": "2026-07-30",
-      "day": "Thu",
-      "shift_name": "Ticket Scanning",
-      "verified_skills": "",
-      "verified_skills_list": []
     },
     {
       "hours": 2.5,
@@ -391,6 +403,14 @@
       ]
     },
     {
+      "hours": 2.25,
+      "date": "2026-05-20",
+      "day": "Wed",
+      "shift_name": "Pulse Pantry Restock",
+      "verified_skills": "",
+      "verified_skills_list": []
+    },
+    {
       "hours": 1.0,
       "date": "2026-05-20",
       "day": "Wed",
@@ -404,14 +424,6 @@
         "Communications",
         "Conflict Resolution"
       ]
-    },
-    {
-      "hours": 2.25,
-      "date": "2026-05-20",
-      "day": "Wed",
-      "shift_name": "Pulse Pantry Restock",
-      "verified_skills": "",
-      "verified_skills_list": []
     },
     {
       "hours": 2.25,
@@ -754,14 +766,6 @@
       ]
     },
     {
-      "hours": 3.0,
-      "date": "2025-10-21",
-      "day": "Tue",
-      "shift_name": "DIWALI",
-      "verified_skills": "",
-      "verified_skills_list": []
-    },
-    {
       "hours": 2.5,
       "date": "2025-10-21",
       "day": "Tue",
@@ -772,6 +776,14 @@
         "Customer Focused",
         "Retail Experience"
       ]
+    },
+    {
+      "hours": 3.0,
+      "date": "2025-10-21",
+      "day": "Tue",
+      "shift_name": "DIWALI",
+      "verified_skills": "",
+      "verified_skills_list": []
     },
     {
       "hours": 0.5,
@@ -807,18 +819,18 @@
       "verified_skills_list": []
     },
     {
-      "hours": 3.5,
-      "date": "2025-10-08",
-      "day": "Wed",
-      "shift_name": "Breaky Bar",
-      "verified_skills": "",
-      "verified_skills_list": []
-    },
-    {
       "hours": 3.0,
       "date": "2025-10-08",
       "day": "Wed",
       "shift_name": "Pulse Pantry Restock",
+      "verified_skills": "",
+      "verified_skills_list": []
+    },
+    {
+      "hours": 3.5,
+      "date": "2025-10-08",
+      "day": "Wed",
+      "shift_name": "Breaky Bar",
       "verified_skills": "",
       "verified_skills_list": []
     },
