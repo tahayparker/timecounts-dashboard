@@ -22,18 +22,6 @@ jobs:
           cache: "pip"
       - name: Install dependencies
         run: pip install -r script/requirements.txt
-      - name: Debug Cloudflare response headers
-        env:
-          TIMECOUNTS_EMAIL: ${{ secrets.TIMECOUNTS_EMAIL }}
-          TIMECOUNTS_PASSWORD: ${{ secrets.TIMECOUNTS_PASSWORD }}
-          TIMECOUNTS_CLIENT_SECRET: ${{ secrets.TIMECOUNTS_CLIENT_SECRET }}
-        run: |
-          curl -s -D - -o /tmp/body.json https://api.timecounts.app/api/v2/oauth/token \
-            -H "Content-Type: application/json" \
-            -d "{\"grant_type\":\"password\",\"client_id\":\"t31W3iIs7eZmRNuxXMEO0dwxIL2qGejPhlE_eoG-phY\",\"client_secret\":\"$TIMECOUNTS_CLIENT_SECRET\",\"email\":\"$TIMECOUNTS_EMAIL\",\"password\":\"$TIMECOUNTS_PASSWORD\"}" \
-            | grep -iE "^(HTTP|cf-ray|cf-mitigated|cf-cache-status|server|x-|date):"
-          echo "--- body ---"
-          cat /tmp/body.json
       - name: Run scraper
         env:
           TIMECOUNTS_EMAIL: ${{ secrets.TIMECOUNTS_EMAIL }}
