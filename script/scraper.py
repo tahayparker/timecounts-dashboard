@@ -23,7 +23,7 @@ from datetime import datetime
 from pathlib import Path
 from zoneinfo import ZoneInfo
 
-import requests
+from curl_cffi import requests
 from dotenv import load_dotenv
 
 # ---------------------------------------------------------------------------
@@ -37,8 +37,8 @@ PASSWORD = os.getenv("TIMECOUNTS_PASSWORD")
 # Public client credentials embedded in Timecounts' own frontend bundle.
 # Same for every user/session — not a per-account secret. Overridable via env
 # in case they ever rotate.
-CLIENT_ID = os.getenv("TIMECOUNTS_CLIENT_ID")
-CLIENT_SECRET = os.getenv("TIMECOUNTS_CLIENT_SECRET")
+CLIENT_ID = os.getenv("TIMECOUNTS_CLIENT_ID", "t31W3iIs7eZmRNuxXMEO0dwxIL2qGejPhlE_eoG-phY")
+CLIENT_SECRET = os.getenv("TIMECOUNTS_CLIENT_SECRET", "")
 
 API_BASE = "https://api.timecounts.app/api/v2"
 TOKEN_URL = f"{API_BASE}/oauth/token"
@@ -65,6 +65,7 @@ def get_access_token() -> str:
             "email": EMAIL,
             "password": PASSWORD,
         },
+        impersonate="chrome",
         timeout=30,
     )
     if resp.status_code != 200:
@@ -82,6 +83,7 @@ def fetch_participations(access_token: str) -> list:
     resp = requests.get(
         TRACK_TIME_URL,
         headers={"Authorization": f"Bearer {access_token}"},
+        impersonate="chrome",
         timeout=30,
     )
     if resp.status_code != 200:
@@ -103,6 +105,7 @@ def fetch_verified_skills(access_token: str) -> list:
     resp = requests.get(
         CURRENT_PERSON_URL,
         headers={"Authorization": f"Bearer {access_token}"},
+        impersonate="chrome",
         timeout=30,
     )
     if resp.status_code != 200:
