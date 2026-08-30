@@ -1,5 +1,5 @@
 {
-  "scraped_at": "2026-08-30T03:25:37.892524+10:00",
+  "scraped_at": "2026-08-31T03:48:52.629425+10:00",
   "summary": {
     "total_sessions_approved": 95,
     "total_sessions_current_year": 82,
@@ -27,18 +27,18 @@
       "verified_skills_list": []
     },
     {
-      "hours": 2.0,
-      "date": "2026-08-26",
-      "day": "Wed",
-      "shift_name": "Hearty Helpings",
-      "verified_skills": "",
-      "verified_skills_list": []
-    },
-    {
       "hours": 3.0,
       "date": "2026-08-26",
       "day": "Wed",
       "shift_name": "Festive Food Crew",
+      "verified_skills": "",
+      "verified_skills_list": []
+    },
+    {
+      "hours": 2.0,
+      "date": "2026-08-26",
+      "day": "Wed",
+      "shift_name": "Hearty Helpings",
       "verified_skills": "",
       "verified_skills_list": []
     },
@@ -163,6 +163,14 @@
       "verified_skills_list": []
     },
     {
+      "hours": 2.0,
+      "date": "2026-08-06",
+      "day": "Thu",
+      "shift_name": "Breaky Bar",
+      "verified_skills": "",
+      "verified_skills_list": []
+    },
+    {
       "hours": 2.5,
       "date": "2026-08-06",
       "day": "Thu",
@@ -175,14 +183,6 @@
       "date": "2026-08-06",
       "day": "Thu",
       "shift_name": "Pulse Pantry",
-      "verified_skills": "",
-      "verified_skills_list": []
-    },
-    {
-      "hours": 2.0,
-      "date": "2026-08-06",
-      "day": "Thu",
-      "shift_name": "Breaky Bar",
       "verified_skills": "",
       "verified_skills_list": []
     },
@@ -235,14 +235,6 @@
       "verified_skills_list": []
     },
     {
-      "hours": 4.5,
-      "date": "2026-07-31",
-      "day": "Fri",
-      "shift_name": "Set Up & Ticketing",
-      "verified_skills": "",
-      "verified_skills_list": []
-    },
-    {
       "hours": 3.0,
       "date": "2026-07-31",
       "day": "Fri",
@@ -251,10 +243,10 @@
       "verified_skills_list": []
     },
     {
-      "hours": 6.5,
-      "date": "2026-07-30",
-      "day": "Thu",
-      "shift_name": "Pulse Pantry",
+      "hours": 4.5,
+      "date": "2026-07-31",
+      "day": "Fri",
+      "shift_name": "Set Up & Ticketing",
       "verified_skills": "",
       "verified_skills_list": []
     },
@@ -263,6 +255,14 @@
       "date": "2026-07-30",
       "day": "Thu",
       "shift_name": "Ticket Scanning",
+      "verified_skills": "",
+      "verified_skills_list": []
+    },
+    {
+      "hours": 6.5,
+      "date": "2026-07-30",
+      "day": "Thu",
+      "shift_name": "Pulse Pantry",
       "verified_skills": "",
       "verified_skills_list": []
     },
@@ -395,18 +395,18 @@
       "verified_skills_list": []
     },
     {
-      "hours": 9.0,
-      "date": "2026-05-27",
-      "day": "Wed",
-      "shift_name": "Vivid Tours Assistant",
-      "verified_skills": "",
-      "verified_skills_list": []
-    },
-    {
       "hours": 1.0,
       "date": "2026-05-27",
       "day": "Wed",
       "shift_name": "Volunteer",
+      "verified_skills": "",
+      "verified_skills_list": []
+    },
+    {
+      "hours": 9.0,
+      "date": "2026-05-27",
+      "day": "Wed",
+      "shift_name": "Vivid Tours Assistant",
       "verified_skills": "",
       "verified_skills_list": []
     },
@@ -699,18 +699,18 @@
       "verified_skills_list": []
     },
     {
-      "hours": 0.5,
-      "date": "2025-10-21",
-      "day": "Tue",
-      "shift_name": "POWER OF KINDNESS WORKSHOP",
-      "verified_skills": "",
-      "verified_skills_list": []
-    },
-    {
       "hours": 2.5,
       "date": "2025-10-21",
       "day": "Tue",
       "shift_name": "Pulse Pantry",
+      "verified_skills": "",
+      "verified_skills_list": []
+    },
+    {
+      "hours": 0.5,
+      "date": "2025-10-21",
+      "day": "Tue",
+      "shift_name": "POWER OF KINDNESS WORKSHOP",
       "verified_skills": "",
       "verified_skills_list": []
     },
@@ -739,18 +739,18 @@
       "verified_skills_list": []
     },
     {
-      "hours": 3.0,
-      "date": "2025-10-08",
-      "day": "Wed",
-      "shift_name": "Pulse Pantry Restock",
-      "verified_skills": "",
-      "verified_skills_list": []
-    },
-    {
       "hours": 3.5,
       "date": "2025-10-08",
       "day": "Wed",
       "shift_name": "Breaky Bar",
+      "verified_skills": "",
+      "verified_skills_list": []
+    },
+    {
+      "hours": 3.0,
+      "date": "2025-10-08",
+      "day": "Wed",
+      "shift_name": "Pulse Pantry Restock",
       "verified_skills": "",
       "verified_skills_list": []
     },
