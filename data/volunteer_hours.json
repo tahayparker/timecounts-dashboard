@@ -1,5 +1,5 @@
 {
-  "scraped_at": "2026-09-19T03:19:36.503046+10:00",
+  "scraped_at": "2026-09-20T02:51:01.434553+10:00",
   "summary": {
     "total_sessions_approved": 125,
     "total_sessions_current_year": 112,
@@ -16,6 +16,14 @@
     ]
   },
   "entries": [
+    {
+      "hours": 1.0,
+      "date": "2026-09-17",
+      "day": "Thu",
+      "shift_name": "Wellness Ambassador",
+      "verified_skills": "",
+      "verified_skills_list": []
+    },
     {
       "hours": 3.0,
       "date": "2026-09-17",
@@ -36,14 +44,6 @@
       "hours": 1.0,
       "date": "2026-09-17",
       "day": "Thu",
-      "shift_name": "Wellness Ambassador",
-      "verified_skills": "",
-      "verified_skills_list": []
-    },
-    {
-      "hours": 1.0,
-      "date": "2026-09-17",
-      "day": "Thu",
       "shift_name": "Hearty Helpings",
       "verified_skills": "",
       "verified_skills_list": []
@@ -60,6 +60,14 @@
       "hours": 1.0,
       "date": "2026-09-16",
       "day": "Wed",
+      "shift_name": "Hearty Helpings",
+      "verified_skills": "",
+      "verified_skills_list": []
+    },
+    {
+      "hours": 5.0,
+      "date": "2026-09-15",
+      "day": "Tue",
       "shift_name": "Hearty Helpings",
       "verified_skills": "",
       "verified_skills_list": []
@@ -69,14 +77,6 @@
       "date": "2026-09-15",
       "day": "Tue",
       "shift_name": "Pulse Pantry",
-      "verified_skills": "",
-      "verified_skills_list": []
-    },
-    {
-      "hours": 5.0,
-      "date": "2026-09-15",
-      "day": "Tue",
-      "shift_name": "Hearty Helpings",
       "verified_skills": "",
       "verified_skills_list": []
     },
@@ -113,7 +113,7 @@
       "verified_skills_list": []
     },
     {
-      "hours": 1.0,
+      "hours": 5.75,
       "date": "2026-09-10",
       "day": "Thu",
       "shift_name": "Hearty Helpings",
@@ -121,7 +121,7 @@
       "verified_skills_list": []
     },
     {
-      "hours": 5.75,
+      "hours": 1.0,
       "date": "2026-09-10",
       "day": "Thu",
       "shift_name": "Hearty Helpings",
@@ -137,10 +137,10 @@
       "verified_skills_list": []
     },
     {
-      "hours": 2.0,
+      "hours": 1.0,
       "date": "2026-09-09",
       "day": "Wed",
-      "shift_name": "Pulse Pantry Restock",
+      "shift_name": "Hearty Helpings",
       "verified_skills": "",
       "verified_skills_list": []
     },
@@ -153,15 +153,15 @@
       "verified_skills_list": []
     },
     {
-      "hours": 1.0,
+      "hours": 2.0,
       "date": "2026-09-09",
       "day": "Wed",
-      "shift_name": "Hearty Helpings",
+      "shift_name": "Pulse Pantry Restock",
       "verified_skills": "",
       "verified_skills_list": []
     },
     {
-      "hours": 4.0,
+      "hours": 1.0,
       "date": "2026-09-08",
       "day": "Tue",
       "shift_name": "Hearty Helpings",
@@ -169,7 +169,7 @@
       "verified_skills_list": []
     },
     {
-      "hours": 1.0,
+      "hours": 4.0,
       "date": "2026-09-08",
       "day": "Tue",
       "shift_name": "Hearty Helpings",
@@ -185,14 +185,6 @@
       "verified_skills_list": []
     },
     {
-      "hours": 3.0,
-      "date": "2026-09-03",
-      "day": "Thu",
-      "shift_name": "Hearty Helpings",
-      "verified_skills": "",
-      "verified_skills_list": []
-    },
-    {
       "hours": 2.75,
       "date": "2026-09-03",
       "day": "Thu",
@@ -205,6 +197,14 @@
       "date": "2026-09-03",
       "day": "Thu",
       "shift_name": "Food Service Friends",
+      "verified_skills": "",
+      "verified_skills_list": []
+    },
+    {
+      "hours": 3.0,
+      "date": "2026-09-03",
+      "day": "Thu",
+      "shift_name": "Hearty Helpings",
       "verified_skills": "",
       "verified_skills_list": []
     },
@@ -233,6 +233,14 @@
       "verified_skills_list": []
     },
     {
+      "hours": 3.75,
+      "date": "2026-09-01",
+      "day": "Tue",
+      "shift_name": "Food Service Friends",
+      "verified_skills": "",
+      "verified_skills_list": []
+    },
+    {
       "hours": 2.25,
       "date": "2026-09-01",
       "day": "Tue",
@@ -249,25 +257,9 @@
       "verified_skills_list": []
     },
     {
-      "hours": 3.75,
-      "date": "2026-09-01",
-      "day": "Tue",
-      "shift_name": "Food Service Friends",
-      "verified_skills": "",
-      "verified_skills_list": []
-    },
-    {
       "hours": 2.0,
       "date": "2026-08-27",
       "day": "Thu",
-      "shift_name": "Hearty Helpings",
-      "verified_skills": "",
-      "verified_skills_list": []
-    },
-    {
-      "hours": 2.0,
-      "date": "2026-08-26",
-      "day": "Wed",
       "shift_name": "Hearty Helpings",
       "verified_skills": "",
       "verified_skills_list": []
@@ -277,6 +269,14 @@
       "date": "2026-08-26",
       "day": "Wed",
       "shift_name": "Festive Food Crew",
+      "verified_skills": "",
+      "verified_skills_list": []
+    },
+    {
+      "hours": 2.0,
+      "date": "2026-08-26",
+      "day": "Wed",
+      "shift_name": "Hearty Helpings",
       "verified_skills": "",
       "verified_skills_list": []
     },
@@ -305,18 +305,18 @@
       "verified_skills_list": []
     },
     {
-      "hours": 2.0,
-      "date": "2026-08-20",
-      "day": "Thu",
-      "shift_name": "Hearty Helpings",
-      "verified_skills": "",
-      "verified_skills_list": []
-    },
-    {
       "hours": 2.75,
       "date": "2026-08-20",
       "day": "Thu",
       "shift_name": "Pulse Pantry",
+      "verified_skills": "",
+      "verified_skills_list": []
+    },
+    {
+      "hours": 2.0,
+      "date": "2026-08-20",
+      "day": "Thu",
+      "shift_name": "Hearty Helpings",
       "verified_skills": "",
       "verified_skills_list": []
     },
@@ -385,18 +385,18 @@
       "verified_skills_list": []
     },
     {
-      "hours": 4.0,
-      "date": "2026-08-07",
-      "day": "Fri",
-      "shift_name": "Pulse Pantry",
-      "verified_skills": "",
-      "verified_skills_list": []
-    },
-    {
       "hours": 1.0,
       "date": "2026-08-07",
       "day": "Fri",
       "shift_name": "Volunteer Leader Meetting",
+      "verified_skills": "",
+      "verified_skills_list": []
+    },
+    {
+      "hours": 4.0,
+      "date": "2026-08-07",
+      "day": "Fri",
+      "shift_name": "Pulse Pantry",
       "verified_skills": "",
       "verified_skills_list": []
     },
@@ -465,10 +465,10 @@
       "verified_skills_list": []
     },
     {
-      "hours": 4.5,
+      "hours": 2.5,
       "date": "2026-07-31",
       "day": "Fri",
-      "shift_name": "Set Up & Ticketing",
+      "shift_name": "Pulse Pantry",
       "verified_skills": "",
       "verified_skills_list": []
     },
@@ -481,9 +481,17 @@
       "verified_skills_list": []
     },
     {
-      "hours": 2.5,
+      "hours": 4.5,
       "date": "2026-07-31",
       "day": "Fri",
+      "shift_name": "Set Up & Ticketing",
+      "verified_skills": "",
+      "verified_skills_list": []
+    },
+    {
+      "hours": 6.5,
+      "date": "2026-07-30",
+      "day": "Thu",
       "shift_name": "Pulse Pantry",
       "verified_skills": "",
       "verified_skills_list": []
@@ -493,14 +501,6 @@
       "date": "2026-07-30",
       "day": "Thu",
       "shift_name": "Ticket Scanning",
-      "verified_skills": "",
-      "verified_skills_list": []
-    },
-    {
-      "hours": 6.5,
-      "date": "2026-07-30",
-      "day": "Thu",
-      "shift_name": "Pulse Pantry",
       "verified_skills": "",
       "verified_skills_list": []
     },
@@ -521,18 +521,18 @@
       "verified_skills_list": []
     },
     {
-      "hours": 2.0,
-      "date": "2026-07-23",
-      "day": "Thu",
-      "shift_name": "Vollie Attendee",
-      "verified_skills": "",
-      "verified_skills_list": []
-    },
-    {
       "hours": 2.25,
       "date": "2026-07-23",
       "day": "Thu",
       "shift_name": "Pulse Pantry",
+      "verified_skills": "",
+      "verified_skills_list": []
+    },
+    {
+      "hours": 2.0,
+      "date": "2026-07-23",
+      "day": "Thu",
+      "shift_name": "Vollie Attendee",
       "verified_skills": "",
       "verified_skills_list": []
     },
@@ -633,18 +633,18 @@
       "verified_skills_list": []
     },
     {
-      "hours": 9.0,
-      "date": "2026-05-27",
-      "day": "Wed",
-      "shift_name": "Vivid Tours Assistant",
-      "verified_skills": "",
-      "verified_skills_list": []
-    },
-    {
       "hours": 1.0,
       "date": "2026-05-27",
       "day": "Wed",
       "shift_name": "Volunteer",
+      "verified_skills": "",
+      "verified_skills_list": []
+    },
+    {
+      "hours": 9.0,
+      "date": "2026-05-27",
+      "day": "Wed",
+      "shift_name": "Vivid Tours Assistant",
       "verified_skills": "",
       "verified_skills_list": []
     },
@@ -945,18 +945,18 @@
       "verified_skills_list": []
     },
     {
-      "hours": 0.5,
-      "date": "2025-10-21",
-      "day": "Tue",
-      "shift_name": "POWER OF KINDNESS WORKSHOP",
-      "verified_skills": "",
-      "verified_skills_list": []
-    },
-    {
       "hours": 3.0,
       "date": "2025-10-21",
       "day": "Tue",
       "shift_name": "DIWALI",
+      "verified_skills": "",
+      "verified_skills_list": []
+    },
+    {
+      "hours": 0.5,
+      "date": "2025-10-21",
+      "day": "Tue",
+      "shift_name": "POWER OF KINDNESS WORKSHOP",
       "verified_skills": "",
       "verified_skills_list": []
     },
