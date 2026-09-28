@@ -157,3 +157,27 @@
     transform: translateY(0);
   }
 }
+
+/* Eliminate focus outlines and borders on chart elements when clicked */
+.recharts-wrapper,
+.recharts-surface,
+.recharts-wrapper *,
+.recharts-surface * {
+  outline: none !important;
+  box-shadow: none !important;
+  -webkit-tap-highlight-color: transparent !important;
+}
+
+.recharts-wrapper:focus,
+.recharts-surface:focus,
+.recharts-wrapper *:focus,
+.recharts-surface *:focus,
+.recharts-wrapper:focus-visible,
+.recharts-surface:focus-visible,
+.recharts-wrapper *:focus-visible,
+.recharts-surface *:focus-visible {
+  outline: none !important;
+  box-shadow: none !important;
+  border-color: transparent !important;
+}
+

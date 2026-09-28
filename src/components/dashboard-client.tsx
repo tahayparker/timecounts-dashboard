@@ -478,7 +478,7 @@ export default function DashboardClient({ data }: { data: Data }) {
         <h2 className="mb-5 text-base font-semibold uppercase tracking-widest text-[rgb(230,230,230)]">
           Monthly Hours
         </h2>
-        <div className="h-[232px] w-full min-w-0 min-h-[232px] shrink-0 select-none outline-none [-webkit-tap-highlight-color:transparent] [&_.recharts-wrapper]:outline-none [&_svg]:outline-none">
+        <div className="h-[232px] w-full min-w-0 min-h-[232px] shrink-0 select-none outline-none [-webkit-tap-highlight-color:transparent] [&_*]:outline-none [&_*]:focus:outline-none [&_*]:focus-visible:outline-none [&_.recharts-wrapper]:outline-none [&_.recharts-surface]:outline-none [&_svg]:outline-none">
           <ResponsiveContainer
             width="100%"
             height="100%"
@@ -487,6 +487,7 @@ export default function DashboardClient({ data }: { data: Data }) {
             debounce={32}
           >
             <LineChart
+              accessibilityLayer={false}
               data={chartData}
               margin={{ top: 8, right: 12, left: 4, bottom: 22 }}
             >
@@ -538,8 +539,9 @@ export default function DashboardClient({ data }: { data: Data }) {
                 dot={{
                   fill: "rgba(255,255,255,0.75)",
                   r: 3,
+                  stroke: "none",
                 }}
-                activeDot={{ r: 5, fill: "rgba(255,255,255,0.95)" }}
+                activeDot={{ r: 5, fill: "rgba(255,255,255,0.95)", stroke: "none" }}
                 connectNulls
               />
             </LineChart>

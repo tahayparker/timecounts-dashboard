@@ -1,6 +1,15 @@
 import { NextResponse } from "next/server";
+import { headers } from "next/headers";
+import { auth } from "@/lib/auth";
 
 export async function POST() {
+  const session = await auth.api.getSession({
+    headers: await headers(),
+  });
+
+  if (!session) {
+    return NextResponse.json({ error: "Unauthorized" }, { status: 401 });
+  }
   const token = process.env.GITHUB_TOKEN;
   const repo = process.env.GITHUB_REPO;
   const ref = process.env.GITHUB_WORKFLOW_REF ?? "main";
