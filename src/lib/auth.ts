@@ -1,5 +1,6 @@
 import { betterAuth } from "better-auth";
 import { nextCookies } from "better-auth/next-js";
+import { dash } from "@better-auth/infra";
 import { Pool } from "pg";
 
 const configuredDomains = process.env.ALLOWED_DOMAINS
@@ -37,5 +38,5 @@ export const auth = betterAuth({
     enabled: true,
     disableSignUp: process.env.ALLOW_CLI_SIGNUP !== "true",
   },
-  plugins: [nextCookies()],
+  plugins: [nextCookies(), dash()],
 });
