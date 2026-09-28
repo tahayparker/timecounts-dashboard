@@ -44,7 +44,7 @@ export default function UserNav({ user }: UserNavProps) {
       >
         <LogOut className="h-3 w-3 shrink-0 transition-colors duration-200 group-hover:text-white" />
         <span className="transition-colors duration-200 group-hover:text-white">
-          {signingOut ? "Signing out..." : "Sign out"}
+          {signingOut ? "Signing out..." : ""}
         </span>
       </button>
     </div>
