@@ -1,10 +1,10 @@
 {
-  "scraped_at": "2026-09-29T06:17:21.779873+10:00",
+  "scraped_at": "2026-09-29T18:47:12.413067+10:00",
   "summary": {
     "total_sessions_approved": 25,
     "total_sessions_current_year": 25,
-    "total_hours_completed": 48.25,
-    "total_hours_current_year": 48.25,
+    "total_hours_completed": 51.25,
+    "total_hours_current_year": 51.25,
     "unique_skills": [
       "Communication",
       "Conflict Resolution",
@@ -17,14 +17,6 @@
   },
   "entries": [
     {
-      "hours": 1.0,
-      "date": "2026-09-24",
-      "day": "Thu",
-      "shift_name": "Hearty Helpings",
-      "verified_skills": "",
-      "verified_skills_list": []
-    },
-    {
       "hours": 2.75,
       "date": "2026-09-24",
       "day": "Thu",
@@ -34,6 +26,14 @@
     },
     {
       "hours": 2.25,
+      "date": "2026-09-24",
+      "day": "Thu",
+      "shift_name": "Hearty Helpings",
+      "verified_skills": "",
+      "verified_skills_list": []
+    },
+    {
+      "hours": 1.0,
       "date": "2026-09-24",
       "day": "Thu",
       "shift_name": "Hearty Helpings",
@@ -76,23 +76,23 @@
       "hours": 1.0,
       "date": "2026-09-17",
       "day": "Thu",
+      "shift_name": "Hearty Helpings",
+      "verified_skills": "",
+      "verified_skills_list": []
+    },
+    {
+      "hours": 1.0,
+      "date": "2026-09-17",
+      "day": "Thu",
+      "shift_name": "Hearty Helpings",
+      "verified_skills": "",
+      "verified_skills_list": []
+    },
+    {
+      "hours": 1.0,
+      "date": "2026-09-17",
+      "day": "Thu",
       "shift_name": "Wellness Ambassador",
-      "verified_skills": "",
-      "verified_skills_list": []
-    },
-    {
-      "hours": 1.0,
-      "date": "2026-09-17",
-      "day": "Thu",
-      "shift_name": "Hearty Helpings",
-      "verified_skills": "",
-      "verified_skills_list": []
-    },
-    {
-      "hours": 1.0,
-      "date": "2026-09-17",
-      "day": "Thu",
-      "shift_name": "Hearty Helpings",
       "verified_skills": "",
       "verified_skills_list": []
     },
@@ -121,18 +121,18 @@
       "verified_skills_list": []
     },
     {
-      "hours": 2.5,
-      "date": "2026-09-15",
-      "day": "Tue",
-      "shift_name": "Pulse Pantry",
-      "verified_skills": "",
-      "verified_skills_list": []
-    },
-    {
       "hours": 1.0,
       "date": "2026-09-15",
       "day": "Tue",
       "shift_name": "Hearty Helpings",
+      "verified_skills": "",
+      "verified_skills_list": []
+    },
+    {
+      "hours": 2.5,
+      "date": "2026-09-15",
+      "day": "Tue",
+      "shift_name": "Pulse Pantry",
       "verified_skills": "",
       "verified_skills_list": []
     },
@@ -149,6 +149,14 @@
       "date": "2026-09-11",
       "day": "Fri",
       "shift_name": "Pulse Pantry",
+      "verified_skills": "",
+      "verified_skills_list": []
+    },
+    {
+      "hours": 1.75,
+      "date": "2026-09-10",
+      "day": "Thu",
+      "shift_name": "Festive Food Crew",
       "verified_skills": "",
       "verified_skills_list": []
     },
@@ -177,15 +185,7 @@
       "verified_skills_list": []
     },
     {
-      "hours": 1.75,
-      "date": "2026-09-10",
-      "day": "Thu",
-      "shift_name": "Festive Food Crew",
-      "verified_skills": "",
-      "verified_skills_list": []
-    },
-    {
-      "hours": 1.5,
+      "hours": 1.0,
       "date": "2026-09-09",
       "day": "Wed",
       "shift_name": "Hearty Helpings",
@@ -201,7 +201,7 @@
       "verified_skills_list": []
     },
     {
-      "hours": 1.0,
+      "hours": 1.5,
       "date": "2026-09-09",
       "day": "Wed",
       "shift_name": "Hearty Helpings",
@@ -209,7 +209,7 @@
       "verified_skills_list": []
     },
     {
-      "hours": 1.0,
+      "hours": 4.0,
       "date": "2026-09-08",
       "day": "Tue",
       "shift_name": "Hearty Helpings",
