@@ -78,20 +78,40 @@ def get_access_token() -> str:
 
 
 def fetch_participations(access_token: str) -> list:
-    """Pull raw participation records from the track_time endpoint."""
+    """Pull raw participation records from the track_time endpoint across all pages."""
     print("[2/3] Fetching hours...")
-    resp = requests.get(
-        TRACK_TIME_URL,
-        headers={"Authorization": f"Bearer {access_token}"},
-        impersonate="chrome",
-        timeout=30,
-    )
-    if resp.status_code != 200:
-        print(f"      Fetch failed: {resp.status_code} {resp.text}")
-        resp.raise_for_status()
+    participations = []
+    page = 1
+    per_page = 100
 
-    participations = resp.json().get("participations", [])
-    print(f"      Found {len(participations)} participation records.")
+    while True:
+        resp = requests.get(
+            TRACK_TIME_URL,
+            headers={"Authorization": f"Bearer {access_token}"},
+            params={"page": page, "per_page": per_page},
+            impersonate="chrome",
+            timeout=30,
+        )
+        if resp.status_code != 200:
+            print(f"      Fetch failed on page {page}: {resp.status_code} {resp.text}")
+            resp.raise_for_status()
+
+        data = resp.json()
+        page_entries = data.get("participations", [])
+        if not page_entries:
+            break
+
+        participations.extend(page_entries)
+        meta = data.get("meta", {})
+        total_pages = meta.get("total_pages", page)
+        total_count = meta.get("total_count", len(participations))
+        print(f"      Fetched page {page}/{total_pages} ({len(participations)}/{total_count} records)...")
+
+        if page >= total_pages:
+            break
+        page += 1
+
+    print(f"      Found {len(participations)} total participation records.")
     return participations
 
 
